@@ -80,3 +80,7 @@
 ## Smart Contracts <a href="#smartcontracts" id="smartcontracts"></a>
 
 * [Smart Contracts - Vault](smartcontracts/smart-contracts-vault.md)
+
+***
+
+* [Proof of Existence Voting](proof-of-existence-voting.md)
