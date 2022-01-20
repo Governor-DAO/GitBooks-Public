@@ -26,6 +26,7 @@
 
 * [Governance Vault Deployment Variables](governance-2.0-documentation/governance-vault-deployment-variables.md)
 * [FAQ Governance Vault](governance-2.0-documentation/faq-governance-vault.md)
+* [Proof of Existence Voting](governance-2.0-documentation/proof-of-existence-voting.md)
 
 ## 💡 Additional Resources
 
@@ -80,7 +81,3 @@
 ## Smart Contracts <a href="#smartcontracts" id="smartcontracts"></a>
 
 * [Smart Contracts - Vault](smartcontracts/smart-contracts-vault.md)
-
-***
-
-* [Proof of Existence Voting](proof-of-existence-voting.md)
