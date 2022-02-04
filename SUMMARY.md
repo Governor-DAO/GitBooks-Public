@@ -18,6 +18,12 @@
 * [Proof of Existence Snapshots](proof-of-existence-documentation/proof-of-existence-snapshots.md)
 * [PoE VIP Process - 4 Stages](proof-of-existence-documentation/poe-vip-process-4-stages.md)
 
+***
+
+* [🗳 DAO Voting / Concepts](dao-voting-concepts/README.md)
+  * [Project Voting & Challenges](dao-voting-concepts/project-voting-and-challenges.md)
+  * [GDAO leveling the voting landscape](dao-voting-concepts/gdao-leveling-the-voting-landscape.md)
+
 ## 👩‍🚀 GovernorDAO Developers
 
 * [POE Integration Overview](governordao-developers/poe-integration-overview.md)
@@ -26,8 +32,6 @@
 
 * [Governance Vault Deployment Variables](governance-2.0-documentation/governance-vault-deployment-variables.md)
 * [FAQ Governance Vault](governance-2.0-documentation/faq-governance-vault.md)
-* [GDAO leveling the voting landscape](governance-2.0-documentation/gdao-leveling-the-voting-landscape.md)
-* [Project Voting & Challenges](governance-2.0-documentation/project-voting-and-challenges.md)
 
 ## 💡 Additional Resources
 
@@ -59,6 +63,7 @@
 ## Other
 
 * [🙋Email Support Form](https://blog.governordao.org/help-desk-form/)
+* [Provably Human: a glimpse into the world of Sybil resistance.](https://mirror.xyz/0x8ef40360c42216137ad05E7541819d2e5b80fCF6/rOg-qXMPbFMSnnA4SexqFf45yx0kvy1RouzDV-bwmNU)
 
 ## 👋 How to Section
 
