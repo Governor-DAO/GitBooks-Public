@@ -26,7 +26,8 @@
 
 * [Governance Vault Deployment Variables](governance-2.0-documentation/governance-vault-deployment-variables.md)
 * [FAQ Governance Vault](governance-2.0-documentation/faq-governance-vault.md)
-* [Proof of Existence Voting](governance-2.0-documentation/proof-of-existence-voting.md)
+* [GDAO leveling the voting landscape](governance-2.0-documentation/gdao-leveling-the-voting-landscape.md)
+* [Project Voting & Challenges](governance-2.0-documentation/project-voting-and-challenges.md)
 
 ## 💡 Additional Resources
 

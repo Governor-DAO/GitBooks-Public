@@ -1,8 +1,10 @@
 ---
-description: Article explaining how
+description: >-
+  A few examples on how GDAO can change the landscape for project voting
+  including challenges
 ---
 
-# Proof of Existence Voting
+# Project Voting & Challenges
 
 **PoE Use Case - Snapshot & Voting**
 
