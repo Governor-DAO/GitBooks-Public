@@ -51,3 +51,7 @@ In addition, PoE allows smaller voters or even non-holders to participate, bring
 After implementing these governance strategies enhanced by the PoE token, a project can expect proposals to have much more user input via votes placed as well as a much more dynamic ratio of input on both sides of the vote. Studies have shown that psychological manifestation of equality is important in allowing individuals to provide their true feelings via voting when an even basis is placed on vote weight coupled with anonymization. Since GDAO’s Proof of Existence technology continues to hold the user anonymous, yet marked as an individual - the outcome is a perfect solution for DAOs and projects looking to maximize voting to build out the future of their platform with the will of all those involved in mind.
 
 _If you are a project looking to integrate PoE into your voting strategy, contact us._
+
+_Also the following details the steps to enroll for a Proof of Existence Token. The team is very close to finalizing a PoE dispenser which provide a fully automated solution for anyone to enroll and mint their own PoE token._
+
+__[_https://docs.governordao.org/proof-of-existence-documentation/poe-vip-process-4-stages_](https://docs.governordao.org/proof-of-existence-documentation/poe-vip-process-4-stages)__
