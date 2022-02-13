@@ -93,4 +93,8 @@ Gas wars typically the outcome of a mass in flood of frontrunning bots attemptin
 
 **Mitigation Strategy**
 
-Gas wars minimised by utilizing the PoE integrations into planned launches or sales
+Gas wars minimized by utilizing the PoE integrations into planned launches or sales
+
+
+
+Sign up today for a PoE token to fight for Sybil Resistance [https://onlyoneme.governordao.org/](https://onlyoneme.governordao.org)
