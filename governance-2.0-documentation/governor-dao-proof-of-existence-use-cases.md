@@ -2,7 +2,7 @@
 
 Governor DAO Proof of Existence Use cases
 
-The following are a few common test cases where GDAO Proof of Existence solution addresses key issues fighting against sybil attacks.
+The following are a few common use cases where GDAO Proof of Existence solution addresses key issues fighting against sybil attacks.
 
 **Use Case 1: Non Verified Wallet Whitelist**
 
