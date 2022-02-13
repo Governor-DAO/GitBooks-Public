@@ -32,6 +32,7 @@
 
 * [Governance Vault Deployment Variables](governance-2.0-documentation/governance-vault-deployment-variables.md)
 * [FAQ Governance Vault](governance-2.0-documentation/faq-governance-vault.md)
+* [Governor DAO Proof of Existence Use cases](governance-2.0-documentation/governor-dao-proof-of-existence-use-cases.md)
 
 ## 💡 Additional Resources
 
