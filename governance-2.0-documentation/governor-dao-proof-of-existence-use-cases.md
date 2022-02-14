@@ -85,7 +85,7 @@ As blockchain integrations build out the larger the reach and scale grows across
 
 Just owning a Proof of Existence (PoE) token will build out your presence on-chain in the GDAO eco system with a number of planned integrations.
 
-**Use Case 9:** gars wars
+**Use Case 9: G**as wars
 
 **Problem explanation / Challenge**
 
