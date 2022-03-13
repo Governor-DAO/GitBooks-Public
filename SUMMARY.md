@@ -8,6 +8,7 @@
 * [🎨 POE for NFT Artists](nft-artist-onramp-info/poe-for-nft-artists.md)
 * [Permissioned NFT Sale Scope](nft-artist-onramp-info/permissioned-nft-sale-scope.md)
 * [Polygon NFT Bridge Guide](nft-artist-onramp-info/polygon-nft-bridge-guide.md)
+* [PoE Fair Launch NFT Quick Pitch](nft-artist-onramp-info/poe-fair-launch-nft-quick-pitch.md)
 
 ## 👤 Proof of Existence Documentation
 
