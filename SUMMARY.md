@@ -62,7 +62,7 @@
 
 * [LitePaper](https://governordao.org/papers/GDAO-Litepaper.pdf)
 
-## Other
+## Additional Info / docs <a href="#other" id="other"></a>
 
 * [🙋Email Support Form](https://blog.governordao.org/help-desk-form/)
 * [Provably Human: a glimpse into the world of Sybil resistance.](https://mirror.xyz/0x8ef40360c42216137ad05E7541819d2e5b80fCF6/rOg-qXMPbFMSnnA4SexqFf45yx0kvy1RouzDV-bwmNU)
