@@ -12,6 +12,6 @@ If the goal is to simply enroll to gain a PoE token follow link 1, if you are in
 
 1. Core VIP Portal on Mainnet [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org)
 
-&#x20; 2\. Human Chat VIP Portal on Rinkeby [https://HumanChat.governordao.org](https://humanchat.governordao.org)
+&#x20; 2\. Enroll in Human Chat as a VIP Portal on Mainnet on link above once a PoE Token has been minted. Telegram link for Human Chat will appear once a PoE token has been minted.
 
-![](../.gitbook/assets/ProofOfExistence\_Flow\_v1.jpg)
+![](../.gitbook/assets/ProofOfExistence\_Flow.drawio.png)
