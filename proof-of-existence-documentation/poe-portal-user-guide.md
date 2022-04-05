@@ -8,13 +8,13 @@ description: Quick Start Guide
 
 **Quick Start Guide**
 
-Version 1.1 Date: 22 November 2021
+Version 1.2 Date: 05 April 2022
 
 ## This Guide will assist with:
 
 1. Enroll (PoE token assignment)
 2. Claim your free NFT on Mainnet
-3. Join our “Humans Only” Telegram Group on Rinkeby
+3. Join our “Humans Only” Telegram Group on Mainnet
 
 **For more detailed info, check out the** [**Governor DAO Proof of Concept Guide.**](https://governordao.org/ProofOfConcept/GovernorDAO-PoC-UserGuide.pdf)
 
@@ -22,7 +22,7 @@ Version 1.1 Date: 22 November 2021
 
 1. **PoE Enrollment Portal on Mainnet** [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org)
 
-&#x20; **2. Human Chat Portal on Rinkeby** [**https://HumanChat.governordao.org**](https://humanchat.governordao.org)****
+&#x20; **2. Mint a PoE token on Mainnet** [**https://passport.governordao.org**](https://humanchat.governordao.org)****
 
 ### Governor DAO Contract Addresses
 
@@ -31,14 +31,11 @@ Version 1.1 Date: 22 November 2021
 * GDAO Token Contract: 0x515d7e9d75e2b76db60f8a051cd890eba23286bc
 * PoE Token Contract: 0x5945bAF9272e0808165aDea61b932eC1604FB161
 
-**Rinkeby Test Network**
-
-* GDAO Token Contract: 0xd326bbd1B7D0Fcc48e83279AcB842dF93b03fb2e
-* PoE Token Contract: 0x36c81CEf9d311Dcf46391e9cF8A776e9991946A3
+****
 
 ## Instructions to Enroll
 
-The following guide details instructions on how to participate in the Governor DAO enrollment process hosted on both '**Mainnet**' or ‘**Rinkeby**’ network via a PC or on mobile.
+The following guide details instructions on how to participate in the Governor DAO enrollment process hosted on both '**Mainnet**' network via a PC or on mobile.
 
 **IMPOTANT NOTE:**
 
@@ -50,16 +47,7 @@ Connect ‘**Metamask**’ or ‘**WalletConnect**’
 
 A warning will display if your wallet is connected to the wrong network.
 
-* For 'Human Chat' Website change wallet network from ‘**Mainnet**’ to ‘**Rinkeby**’ otherwise a message will appear warning to change networks
-
-To change from ‘_**Mainnet**_’ to ‘_**Rinkeby**_’
-
-* Choose ‘**Rinkeby Test Network**’
-* &#x20;When switching networks wallet connectivity may not fully connect your wallet, if so, refresh your browser once on ‘_**Rinkeby**_’ Network.
-
-![](<../.gitbook/assets/Rinkeby-Network (1).PNG>)
-
-On refresh you can see the status of your registration (_**see end of document for examples and explanations**_).
+* The 'Human Chat' Telegram chat has been migrated to Mainnet with a link appearing on the website once a PoE token has been minted on Mainnet
 
 If this is your first time the “_**Status of VIP enrolment:**_” will be ‘**Unenrolled**’ or ‘_**Unknown**_’ (if the wallet isn’t connected).
 
@@ -99,11 +87,9 @@ On success, the following heading will be updated ‘**Status of VIP enrollment*
 
 ## PoE Token assignment
 
-**NOTE: Once Say-Tec registration is complete, a PoE token will not be allocated until the team runs a periodic batch to mint the tokens**. **Tokens are minted in batches at least once per day.**
+**NOTE: Once Say-Tec registration is complete, a PoE token can be minted from the following** [**page**](https://passport.governordao.org) **which will cost a small gas fee to complete the transaction. An automated process runs every 4 hours which collects new enrolments and authorizes the new wallet to mint a PoE token.**
 
-**We appreciate your patience for any delays while waiting for your token.** This process will be automated in the near future.
-
-Once the batch has been run the token will be assigned and access to Telegram will be available. NFT claim will also be available if you qualify.
+Once the PoE token has been minted access to the Human Telegram group can be accessed from a link which is displayed on detection of the PoE token on [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org) .
 
 ## Verifying enrollment later
 
@@ -135,13 +121,13 @@ Confirm you’ve **successfully enrolled** and **a PoE token has been assigned**
 
 ****
 
-### **Join Human Telegram Group on Rinkeby**
+### **Join Human Telegram Group on Mainnet**
 
-Once you have enrolled and received your PoE token, you can join our GDAO “_**Humans Only**_” Telegram Group on Rinkeby.
+Once you have enrolled and minted your PoE token, you can join our GDAO “_**Humans Only**_” Telegram Group on Mainnet.
 
 Note: You must use the link provided by the PoC webpage only (public link will not work!)
 
-**The following link will only appear when you have received a PoE token.**
+**The following link will only appear when you have received a PoE token at the bottom of the authentication** [<mark style="color:blue;">**page**</mark>](https://onlyoneme.governordao.org)**.**
 
 Scroll down until you see the option “Join the PoE Telegram Group”
 
@@ -239,7 +225,7 @@ Once enrolled, the Say-tech enrollment can be accessed via Metamask Mobile but t
 
 Technically not an issue but a guide on using android and Brave browser. As the website has ‘wallet connect’ integration using browsers for example Brave and Metamask is workable and supported.
 
-* First open Metamask, connect to ‘**Rinkeby**’ network before opening browser.
+* First open Metamask, connect to ‘**Mainnet**’ network before opening browser.
 * Open Brave and navigate to the URL, connect wallet and click on ‘_**start enrollment**_’
 * A pop-up will appear to approve the use of your camera and mic
 * A silhouette will appear with red flashing blinker, then the camera will become active, if the camera doesn’t activate Metamask may not be open.
