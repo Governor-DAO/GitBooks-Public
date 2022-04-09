@@ -141,7 +141,7 @@ Scroll down until you see the option “Join the PoE Telegram Group”
 
 Interact with **Collab. Land** bot in Direct Message (for best results, use Telegram Desktop)
 
-Click on ‘_**Connect**_’ and navigate to browser which has Metamask unlocked and connected on **Rinkeby**
+Click on ‘_**Connect**_’ and navigate to browser which has Metamask unlocked and connected on Mainnet
 
 ![](../.gitbook/assets/16.png)![](../.gitbook/assets/17.png)
 
