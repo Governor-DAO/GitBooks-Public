@@ -18,6 +18,7 @@
 * [PoE Sign-up - One Page Flyer](https://governordao.org/ProofOfConcept/POCFlyer.png)
 * [Proof of Existence Snapshots](proof-of-existence-documentation/proof-of-existence-snapshots.md)
 * [PoE VIP Process - 4 Stages](proof-of-existence-documentation/poe-vip-process-4-stages.md)
+* [Passport Portal / PoE Dispenser](proof-of-existence-documentation/passport-portal-poe-dispenser.md)
 
 ***
 
