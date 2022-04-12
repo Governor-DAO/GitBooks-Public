@@ -4,7 +4,7 @@ description: >-
   PoE dispenser.
 ---
 
-# Passport Portal
+# Passport Portal / PoE Dispenser
 
 Passport Portal & PoE dispenser
 
@@ -24,7 +24,7 @@ Simple summary of the following
 * Status of your PoE token.
 
 ![VIP Status
-Description automatically generated](<.gitbook/assets/0 (2)>)
+Description automatically generated](<../.gitbook/assets/0 (2)>)
 
 **PoE holder only Section**
 
@@ -42,7 +42,7 @@ Any on-chain wallet can be verified by entering a wallet address which will repo
 * If the wallet has enrolled as a VIP through the biometric enrol.
 * Holds GDAO or xGDAO
 
-![Proof of Existence Verifier](<.gitbook/assets/1 (1)>)
+![Proof of Existence Verifier](<../.gitbook/assets/1 (1)>)
 
 **Proof of Existence Token Claim Portal**
 
@@ -54,16 +54,16 @@ Currently GDAO is not charging for the PoE token, the only cost is the gas to mi
 
 ![Proof of Existence Token Claim Portal
 
-Description automatically generated](.gitbook/assets/2)
+Description automatically generated](../.gitbook/assets/2)
 
 The following mint button will appear when your wallet is authorized to mint a PoE Token
 
 ![Graphical user interface, text, application
 
-Description automatically generated](.gitbook/assets/3)
+Description automatically generated](../.gitbook/assets/3)
 
 Enroll at the following page and join the fight for sybil resistance
 
 [https://OnlyOneMe.govenordao.org](https://onlyoneme.govenordao.org)
 
-![](.gitbook/assets/4)
+![](../.gitbook/assets/4)
