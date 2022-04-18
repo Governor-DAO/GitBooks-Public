@@ -42,7 +42,7 @@ Any on-chain wallet can be verified by entering a wallet address which will repo
 * If the wallet has enrolled as a VIP through the biometric enrol.
 * Holds GDAO or xGDAO
 
-![Proof of Existence Verifier](<../.gitbook/assets/1 (1)>)
+![Proof of Existence Verifier](<../.gitbook/assets/1 (1) (1)>)
 
 **Proof of Existence Token Claim Portal**
 

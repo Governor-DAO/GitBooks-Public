@@ -68,6 +68,7 @@
 * [🙋Email Support Form](https://blog.governordao.org/help-desk-form/)
 * [Provably Human: a glimpse into the world of Sybil resistance.](https://mirror.xyz/0x8ef40360c42216137ad05E7541819d2e5b80fCF6/rOg-qXMPbFMSnnA4SexqFf45yx0kvy1RouzDV-bwmNU)
 * [Sybil Resistance Within the Metaverse & P2E Gaming](https://mirror.xyz/0xD8d311CD7a0dcc7DBe8545490e568740EFc83603/Pm5GM41tkfAxBjmCybQ\_T-88aP6R329ChRHwGDgFXYo)
+* [Governor DAO Post Mortem BEAN Governance Exploit](other/governor-dao-post-mortem-bean-governance-exploit.md)
 
 ## 👋 How to Section
 
