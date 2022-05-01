@@ -46,8 +46,9 @@ Some of the (otherwise not possible) gamification/logic improvements could inclu
 
 ### Contract List
 
-| Kava          | [0x968354437FDBc3E5b209e363988715c36E5fF10E](https://explorer.evm-alpha.kava.io/address/0x968354437FDBc3E5b209e363988715c36E5fF10E/write-contract) |
+| Network       | Proof-of-Existence Token Contract                                                                                                                  |
 | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Kava          | [0x968354437FDBc3E5b209e363988715c36E5fF10E](https://explorer.evm-alpha.kava.io/address/0x968354437FDBc3E5b209e363988715c36E5fF10E/write-contract) |
 | Mainnet       | [0x5945bAF9272e0808165aDea61b932eC1604FB161](https://etherscan.io/token/0x5945baf9272e0808165adea61b932ec1604fb161)                                |
 | Polygon (new) | [0x523b6CD6191C45B0134B175fD36b82586EaeC41D](https://polygonscan.com/token/0x523b6cd6191c45b0134b175fd36b82586eaec41d)                             |
 | Polygon (old) | [0x15a84e83e039a63a230ba786231dfb99544f7acb](https://polygonscan.com/token/0x15a84e83e039a63a230ba786231dfb99544f7acb)                             |
