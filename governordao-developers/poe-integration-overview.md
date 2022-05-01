@@ -46,8 +46,16 @@ Some of the (otherwise not possible) gamification/logic improvements could inclu
 
 ### Contract List
 
-| Network | Proof-of-Existence Token Contract                                                                                           |
-| ------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Mainnet | [0x5945bAF9272e0808165aDea61b932eC1604FB161](https://etherscan.io/token/0x5945baf9272e0808165adea61b932ec1604fb161)         |
-| Polygon | [0x15a84e83e039a63a230ba786231dfb99544f7acb](https://polygonscan.com/token/0x15a84e83e039a63a230ba786231dfb99544f7acb)      |
-| Rinkeby | [0x36c81cef9d311dcf46391e9cf8a776e9991946a3](https://rinkeby.etherscan.io/token/0x36c81cef9d311dcf46391e9cf8a776e9991946a3) |
+| Kava          | [0x968354437FDBc3E5b209e363988715c36E5fF10E](https://explorer.evm-alpha.kava.io/address/0x968354437FDBc3E5b209e363988715c36E5fF10E/write-contract) |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mainnet       | [0x5945bAF9272e0808165aDea61b932eC1604FB161](https://etherscan.io/token/0x5945baf9272e0808165adea61b932ec1604fb161)                                |
+| Polygon (new) | [0x523b6CD6191C45B0134B175fD36b82586EaeC41D](https://polygonscan.com/token/0x523b6cd6191c45b0134b175fd36b82586eaec41d)                             |
+| Polygon (old) | [0x15a84e83e039a63a230ba786231dfb99544f7acb](https://polygonscan.com/token/0x15a84e83e039a63a230ba786231dfb99544f7acb)                             |
+| Rinkeby       | [0x36c81cef9d311dcf46391e9cf8a776e9991946a3](https://rinkeby.etherscan.io/token/0x36c81cef9d311dcf46391e9cf8a776e9991946a3)                        |
+
+| Network | Merkle Minter                                                                                                                       |
+| ------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| Kava    | [0x4784855c2802132d1dc3212111Ae70613CA7A1D0](https://explorer.evm-alpha.kava.io/address/0x4784855c2802132d1dc3212111Ae70613CA7A1D0) |
+| Mainnet | [0xc4f97fcf045c0bfb9faa19515446eb0c7ffde8bf](https://etherscan.io/address/0xc4f97fcf045c0bfb9faa19515446eb0c7ffde8bf)               |
+| Polygon | [0xb17e1062F89Dff41197F1f6d82De4Bff2d0db29D](https://polygonscan.com/address/0xb17e1062f89dff41197f1f6d82de4bff2d0db29d)            |
+
