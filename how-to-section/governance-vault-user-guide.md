@@ -8,7 +8,7 @@ description: https://vault.governordao.org/
 
 The following outlines the Governance Vault, as well as an overview of the contracts comprising the initial vault rollout and how the community can test and prepare these contracts for mainnet usage**.**
 
-Vault site: [https://vault.governordao.org/](http://vault.governordao.org)
+Vault site: [https://vault.governordao.org/](http://vault.governordao.org/)
 
 ### **Contract Addresses (Mainnet)**
 
@@ -48,7 +48,7 @@ xGDAO Vault is the key component that gives GDAO holders immutable keys to the k
 
 The biggest distinction is that there is no “team” or “admin” that operates these functions. Token holders are the owners: this is fully autonomous revenue management.
 
-The Governance Vault has been eployed alongside the Proof-of-Existence whitelist, which will take a sign-up fee priced in ETH in the future. ETH from POE signups goes to the Buyback Agent, which in turn delivers ETH to the specified destinations (a) liquidity add, (b) GDAO buyback and delivery to xGDAO participants, (c) treasury draw. Other revenue including LGE (Liquid Generation Events) or NFT sales from the NFT [Launchpad](https://nft.governordao.org) will be sent to the buyback contract.
+The Governance Vault has been eployed alongside the Proof-of-Existence whitelist, which will take a sign-up fee priced in ETH in the future. ETH from POE signups goes to the Buyback Agent, which in turn delivers ETH to the specified destinations (a) liquidity add, (b) GDAO buyback and delivery to xGDAO participants, (c) treasury draw. Other revenue including LGE (Liquid Generation Events) or NFT sales from the NFT [Launchpad](https://nft.governordao.org/) will be sent to the buyback contract.
 
 For the GDAO holder, the interactions go like this:
 
@@ -76,7 +76,7 @@ Enabling the early adoption of this unique, unparalleled technology will further
 
 ### **Governance Vault User Guide**
 
-Head over to [https://vault.governordao.org/](https://vault.governordao.org) and connect your wallet to Mainnet. You will be interacting with each of the two contracts: xGDAO and Buyback Agent initially.
+Head over to [https://vault.governordao.org/](https://vault.governordao.org/) and connect your wallet to Mainnet. You will be interacting with each of the two contracts: xGDAO and Buyback Agent initially.
 
 ![](https://lh6.googleusercontent.com/wz\_cOuVgYOU1gVvSrSzWTFq75WlpesMIqgLUl493b-r5NwULAPjTWgAhpfMs4IhTTgbqTkUfUYIzr35q4hMdZFSUPYGHL8OMWDjU7D27Y9KyNlX5oEZmVMbhILy1dJxbKQx3RBWT=s0)
 

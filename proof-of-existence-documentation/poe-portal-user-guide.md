@@ -198,7 +198,7 @@ If any issues are experienced with enrollment or website issues, there are sever
 
 * **Telegram Community chat**, request an admin in the following GovernorDao Chat [https://t.me/GovernorProject](https://t.me/GovernorProject)
 * **GovernorDAO Discord** [https://discord.gg/MVh5NkN7gt](https://discord.gg/MVh5NkN7gt)
-* **Governordao Blog WordPress server**, navigate to [https://blog.governordao.org/](https://blog.governordao.org)
+* **Governordao Blog WordPress server**, navigate to [https://blog.governordao.org/](https://blog.governordao.org/)
 * Click on message bubble at bottom right corner of screen
 
 ![](../.gitbook/assets/23.png) _Live chat available_ ![](../.gitbook/assets/24.png) _Chat offline_

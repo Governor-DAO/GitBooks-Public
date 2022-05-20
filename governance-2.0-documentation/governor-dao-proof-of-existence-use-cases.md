@@ -53,7 +53,7 @@ Typical project voting is coordinated via a weighted vote therefore any large to
 
 **Mitigation Strategy**
 
-Incorporating the PoE ERC20 token into to [snapshot.org](http://snapshot.org) provides a confident landscape that the primary voting criteria is one person / one wallet. Additional criteria can be used as a primary requirement for example having x amount of the project token as well as a PoE token.
+Incorporating the PoE ERC20 token into to [snapshot.org](http://snapshot.org/) provides a confident landscape that the primary voting criteria is one person / one wallet. Additional criteria can be used as a primary requirement for example having x amount of the project token as well as a PoE token.
 
 **Use Case 6: Bots**
 
@@ -69,7 +69,7 @@ Utilizing the Proof of Existence solution by allowing only PoE holders to partic
 
 **Problem explanation / Challenge**
 
-As the defi space builds out integrations are on the rise including social medial integrations with a bigger drive for decentralised options. Social media dApps like ‘[Blockscan](https://chat.blockscan.com/start)’ and [ETHmail](https://ethmail.cc) are both functional social media tools which can be used in combination of your wallet to send emails on-chain. We all understand anyone can spin up multiple email addresses off-chain without any KYC verification with little trust on who maybe the author of those social media communications. As these social media integrations build up there will be a bigger demand to understand and verify who is associated to the wallet and the social media activity. The social profiles and integrations can only scale with confidence which is lacking due to the anonymous nature of blockchain.
+As the defi space builds out integrations are on the rise including social medial integrations with a bigger drive for decentralised options. Social media dApps like ‘[Blockscan](https://chat.blockscan.com/start)’ and [ETHmail](https://ethmail.cc/) are both functional social media tools which can be used in combination of your wallet to send emails on-chain. We all understand anyone can spin up multiple email addresses off-chain without any KYC verification with little trust on who maybe the author of those social media communications. As these social media integrations build up there will be a bigger demand to understand and verify who is associated to the wallet and the social media activity. The social profiles and integrations can only scale with confidence which is lacking due to the anonymous nature of blockchain.
 
 **Mitigation Strategy**
 
@@ -97,4 +97,4 @@ Gas wars minimized by utilizing the PoE integrations into planned launches or sa
 
 
 
-Sign up today for a PoE token to fight for Sybil Resistance [https://onlyoneme.governordao.org/](https://onlyoneme.governordao.org)
+Sign up today for a PoE token to fight for Sybil Resistance [https://onlyoneme.governordao.org/](https://onlyoneme.governordao.org/)

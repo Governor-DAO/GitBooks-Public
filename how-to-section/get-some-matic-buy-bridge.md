@@ -27,7 +27,7 @@ There are numerous ways to fund your Polygon wallet with $MATIC for use during N
 
 <!---->
 
-* **Bridging Option** - Swap MATIC for another token in your ETH wallet via bridging. This process requires the most time, is the most likely to have an issue with, and can be confusing to inexperienced users. This process will require some ETH for bridging as well as a small amount of MATIC. If you decide to swap AFTER bridging funds you will save some ETH at the expense of needing MATIC up front. You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply).
+* **Bridging Option** - Swap MATIC for another token in your ETH wallet via bridging. This process requires the most time, is the most likely to have an issue with, and can be confusing to inexperienced users. This process will require some ETH for bridging as well as a small amount of MATIC. If you decide to swap AFTER bridging funds you will save some ETH at the expense of needing MATIC up front. You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply/).
 
 <!---->
 
@@ -38,9 +38,9 @@ There are numerous ways to fund your Polygon wallet with $MATIC for use during N
 
 ### Matic Faucet
 
-You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply).
+You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply/).
 
-_Once you have completed one of the three methods above you will have MATIC in your wallet. To add MATIC to your available network selection list, please go to https://chainlist.org/ and search for “Polygon Mainnet” an option will show to connect your wallet and then to add the chain. This will add Polygon (Matic) Mainnet to your available chains in Metamask. Open your wallet on the Polygon (MATIC) chain to see your balance and transact with Polygon (MATIC) offerings such as_ [_polygon.governordao.org_ ](https://polygon.governordao.org)_​_
+_Once you have completed one of the three methods above you will have MATIC in your wallet. To add MATIC to your available network selection list, please go to https://chainlist.org/ and search for “Polygon Mainnet” an option will show to connect your wallet and then to add the chain. This will add Polygon (Matic) Mainnet to your available chains in Metamask. Open your wallet on the Polygon (MATIC) chain to see your balance and transact with Polygon (MATIC) offerings such as_ [_polygon.governordao.org_ ](https://polygon.governordao.org/)_​_
 
 {% embed url="https://gblobscdn.gitbook.com/assets%2Fcremepieswap%2F-Mdpqt9EFTOkPKPYbIea%2F-MdprE9Wmoms9hm67UEz%2F7.jpeg?alt=media" %}
 Manual MATIC Settings

@@ -19,7 +19,7 @@ Public LGE launch: **\[October 29th, 8pm UTC ] 1pm PST \[3 day only duration)**
 
 In Governor’s LGE model (which operates differently from other models branded LGE), users exchange their ETH for a “Synthetic LP” voucher. ETH from the LGE is paired with pre-allocated MDAO tokens. Over time, Synthetic LP can be returned for the real LP created. When this happens, users redeem their ETH AND MDAO (ETH => Synthetic LP => real LP => ETH + MDAO).&#x20;
 
-**Important: there is a 24 hour presale for authenticated users only, to guarantee a sufficiently decentralized token at launch. To participate in this presale, you must authenticate your wallet through Sign up here** [**http://onlyoneme.governordao.org/**](http://onlyoneme.governordao.org)
+**Important: there is a 24 hour presale for authenticated users only, to guarantee a sufficiently decentralized token at launch. To participate in this presale, you must authenticate your wallet through Sign up here** [**http://onlyoneme.governordao.org/**](http://onlyoneme.governordao.org/)
 
 &#x20;****&#x20;
 
@@ -93,7 +93,7 @@ LGE Website [https://muse.governordao.org](https://muse.governordao.org)
 **Proof-of-Existence Presale buffer: 24 hours (October 28th, 8pm UTC  | 1pm Pacific)**
 
 * **Only addresses** already authenticated can participate in the Presale. Information will initially be surfaced to authenticated individuals through the Governor DAO “Humans” chat.
-* Presale buffer is a non-competitive, capped offering for provably unique individuals (PoE VIP’s) . [Sign up here](https://onlyoneme.governordao.org) to participate.
+* Presale buffer is a non-competitive, capped offering for provably unique individuals (PoE VIP’s) . [Sign up here](https://onlyoneme.governordao.org/) to participate.
 * Presale cap: 7 ETH per user
 * LGE hardcap: 228 ETH
 * LGE softcap: 50 ETH

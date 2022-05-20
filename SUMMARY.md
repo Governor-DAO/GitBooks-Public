@@ -38,7 +38,7 @@
 
 ## 💡 Additional Resources
 
-* [Geyser LP Staking Pool](https://app.gysr.io/pool/0x9b1602f4d05d78909a0c0675150dfc5bdee7fdec)
+* [GDAO PoE sales tunnel](https://proofofexistence.xyz/)
 * [Official Announcements Telegram](https://t.me/GovernorProject)
 * [Official Telegram Group](https://t.me/GovernorProject)
 * [GDAO Trading / Unofficial](https://t.me/gdaounofficial)
@@ -48,7 +48,7 @@
 * [Main Website](https://governordao.org)
 * [Blog Website](https://blog.governordao.org)
 * [Forum Website](https://forum.gdao.info)
-* [NFT LanchPad](https://nft.governordao.org)
+* [NFT LanchPad](https://nft.governordao.org/)
 * [CoinGecko GDAO](https://www.coingecko.com/en/coins/governor-dao)
 
 ## 💰 Where to purchase
@@ -59,12 +59,9 @@
 * [Gate.io GDAO/USDT](https://www.gate.io/trade/GDAO\_USDT)
 * [Gate.IO GDAO/ETH](https://www.gate.io/trade/GDAO\_ETH)
 
-## Project Documentation
-
-* [LitePaper](https://governordao.org/papers/GDAO-Litepaper.pdf)
-
 ## Additional Info / docs <a href="#other" id="other"></a>
 
+* [Governor DAO Litepaper v2.1](other/governor-dao-litepaper-v2.1.md)
 * [🙋Email Support Form](https://blog.governordao.org/help-desk-form/)
 * [Provably Human: a glimpse into the world of Sybil resistance.](https://mirror.xyz/0x8ef40360c42216137ad05E7541819d2e5b80fCF6/rOg-qXMPbFMSnnA4SexqFf45yx0kvy1RouzDV-bwmNU)
 * [Sybil Resistance Within the Metaverse & P2E Gaming](https://mirror.xyz/0xD8d311CD7a0dcc7DBe8545490e568740EFc83603/Pm5GM41tkfAxBjmCybQ\_T-88aP6R329ChRHwGDgFXYo)

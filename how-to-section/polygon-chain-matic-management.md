@@ -43,13 +43,13 @@ Note: Be sure you are bridging from ETH **TO** MATIC.
 
 #### Claiming free matic from Faucet
 
-You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply). Claiming will provide sufficient Matic to potentially claim an a free NFT on the Polygon Chain.
+You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply/). Claiming will provide sufficient Matic to potentially claim an a free NFT on the Polygon Chain.
 
 #### Add Polygon Network to your wallet
 
 Once you have completed one of the three methods above you will have MATIC in your wallet.
 
-To add MATIC to your available network selection list, please go to [https://chainlist.org/](https://chainlist.org) and search for “Polygon Mainnet” an option will show to connect your wallet and then to add the chain. This will add Polygon (Matic) Mainnet to your available chains in Metamask.&#x20;
+To add MATIC to your available network selection list, please go to [https://chainlist.org/](https://chainlist.org/) and search for “Polygon Mainnet” an option will show to connect your wallet and then to add the chain. This will add Polygon (Matic) Mainnet to your available chains in Metamask.&#x20;
 
 ![Graphical user interface, text, application
 

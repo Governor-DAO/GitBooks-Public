@@ -30,7 +30,7 @@ Yes, for any proposed fee on deposit or withdraw a warning will display. The fro
 
 5\. **How do I deposit my GDAO into the vault**
 
-Navigate to the following URL [Governance Vault - Governor DAO](https://vault.governordao.org) , first transaction will be an ‘_**Approve**_’ and 2nd will be a ‘_**Deposit**_’ transaction which are both standard transactions which require gas \[eth]
+Navigate to the following URL [Governance Vault - Governor DAO](https://vault.governordao.org/) , first transaction will be an ‘_**Approve**_’ and 2nd will be a ‘_**Deposit**_’ transaction which are both standard transactions which require gas \[eth]
 
 **6. I enrolled for Proof-of-Existence, but I don’t see my wallet as holding a POE token, Please explain?**
 
