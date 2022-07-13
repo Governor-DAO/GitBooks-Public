@@ -1,18 +1,18 @@
 ---
-description: Summary of who GovernorDAO is and what we do.
+description: Summary of who Governor DAO is and what we do.
 ---
 
 # 👋 Introduction
 
 ****
 
-Governor DAO is a Wyoming-based Decentralized Autonomous Organization positioned as the “DAO of DAOs”. Governors offer a suite of products and services for projects looking to build out DAO qualities in their own communities. Our offerings include an industry-first sybil-resistance product for one-voice-one-vote [governance](https://blog.governordao.org/2020/10/18/governor-gdao-state-of-the-union/), as well as governance bootstraps for new communities, consultations, and smart contract porting.
+Governor DAO is a Wyoming-based Decentralized Autonomous Organization positioned as the “DAO of DAOs”. Governors offer a suite of products and services for projects looking to build DAO qualities in their communities. Our offerings include an industry-first Sybil-resistance product for one-voice-one-vote[ governance](https://blog.governordao.org/2020/10/18/governor-gdao-state-of-the-union/) and as governance bootstraps for new communities, consultations, and smart contract porting.
 
-A proper DAO model is more efficient and better scaling than the traditional corporation. In the future, many businesses, both physical and digital, will operate as DAOs. Functioning as a DAO is another step in the right direction for GDAO to help guide the DAO revolution in the coming years.
+A proper DAO model is more efficient and has better scaling than the traditional corporation. In the future, many physical and digital businesses will operate as DAOs. Functioning as a DAO is another step in the right direction for GDAO to help guide the DAO revolution in the coming years.
 
 Who are we and what is the vision?
 
-By decentralizing project ownership, Governor Decentralized Autonomous Organization (GDAO) allows founders and core team members to hold less legal liabilities and offer more open based “Sandbox-like'' services in DeFi. Driven by its biometrically verified Proof-of-Existence token, GDAO aims to be a role model for other DAO’s by offering the utmost security and anonymity to its end-users in a true, decentralized governance community.\
+By decentralizing project ownership, Governor Decentralized Autonomous Organization (GDAO) allows founders and core team members to hold fewer legal liabilities and offer more open-based “Sandbox-like'' services in DeFi. Driven by its biometrically verified Proof-of-Existence token, GDAO aims to be a role model for other DAOs by offering the utmost security and anonymity to its end-users in a true, decentralized governance community.\
 ****
 
 **Governance-as-a-Service (GaaS)**\
