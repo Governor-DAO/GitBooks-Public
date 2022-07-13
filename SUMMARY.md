@@ -5,7 +5,7 @@
 ## NFT Artist OnRamp Info
 
 * [🤝NFT Artist requirements discovery form](https://blog.governordao.org/poe-nft-dispenser-artist-sign-up/)
-* [🎨 POE for NFT Artists](nft-artist-onramp-info/poe-for-nft-artists.md)
+* [🎨 PoE for NFT Artists](nft-artist-onramp-info/poe-for-nft-artists.md)
 * [Permissioned NFT Sale Scope](nft-artist-onramp-info/permissioned-nft-sale-scope.md)
 * [Polygon NFT Bridge Guide](nft-artist-onramp-info/polygon-nft-bridge-guide.md)
 * [PoE Fair Launch NFT Quick Pitch](nft-artist-onramp-info/poe-fair-launch-nft-quick-pitch.md)
@@ -13,8 +13,8 @@
 ## 👤 Proof of Existence Documentation
 
 * [Finnovant Q & A on their Tec](https://www.finnovant.com/frequently-asked-questions/)
-* [POE Overview](proof-of-existence-documentation/poe-overview.md)
-* [POE Enroll User Guide](proof-of-existence-documentation/poe-portal-user-guide.md)
+* [PoE Overview](proof-of-existence-documentation/poe-overview.md)
+* [PoE Enroll User Guide](proof-of-existence-documentation/poe-portal-user-guide.md)
 * [PoE Sign-up - One Page Flyer](https://governordao.org/ProofOfConcept/POCFlyer.png)
 * [Proof of Existence Snapshots](proof-of-existence-documentation/proof-of-existence-snapshots.md)
 * [PoE VIP Process - 4 Stages](proof-of-existence-documentation/poe-vip-process-4-stages.md)
@@ -28,7 +28,7 @@
 
 ## 👩‍🚀 GovernorDAO Developers
 
-* [POE Integration Overview](governordao-developers/poe-integration-overview.md)
+* [PoE Integration Overview](governordao-developers/poe-integration-overview.md)
 
 ## Governance 2.0 Documentation
 
