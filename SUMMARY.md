@@ -14,7 +14,7 @@
 
 * [Finnovant Q & A on their Tec](https://www.finnovant.com/frequently-asked-questions/)
 * [PoE Overview](proof-of-existence-documentation/poe-overview.md)
-* [PoE Enroll User Guide](proof-of-existence-documentation/poe-portal-user-guide.md)
+* [PoE Enrollment User Guide](proof-of-existence-documentation/poe-portal-user-guide.md)
 * [PoE Sign-up - One Page Flyer](https://governordao.org/ProofOfConcept/POCFlyer.png)
 * [Proof of Existence Snapshots](proof-of-existence-documentation/proof-of-existence-snapshots.md)
 * [PoE VIP Process - 4 Stages](proof-of-existence-documentation/poe-vip-process-4-stages.md)

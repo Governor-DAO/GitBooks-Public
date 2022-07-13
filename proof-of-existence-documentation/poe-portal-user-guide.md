@@ -2,7 +2,7 @@
 description: Quick Start Guide
 ---
 
-# POE Enroll User Guide
+# PoE Enrollment User Guide
 
 **Governor DAO Proof of Existence Portal**
 
@@ -12,17 +12,16 @@ Version 1.2 Date: 05 April 2022
 
 ## This Guide will assist with:
 
-1. Enroll (PoE token assignment)
+1. Enrollment (PoE token assignment)
 2. Claim your free NFT on Mainnet
 3. Join our “Humans Only” Telegram Group on Mainnet
 
 **For more detailed info, check out the** [**Governor DAO Proof of Concept Guide.**](https://governordao.org/ProofOfConcept/GovernorDAO-PoC-UserGuide.pdf)
 
-### PoE Portal URL's
+### PoE Portal URLs
 
-1. **PoE Enrollment Portal on Mainnet** [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org)
-
-&#x20; **2. Mint a PoE token on Mainnet** [**https://passport.governordao.org**](https://humanchat.governordao.org)****
+1. **PoE Enrollment Portal on Mainnet** [**https://OnlyOneMe.governordao.org**](https://onlyoneme.governordao.org)****
+2. **Mint a PoE token on Mainnet** [**https://passport.governordao.org**](https://humanchat.governordao.org)****
 
 ### Governor DAO Contract Addresses
 
@@ -35,11 +34,11 @@ Version 1.2 Date: 05 April 2022
 
 ## Instructions to Enroll
 
-The following guide details instructions on how to participate in the Governor DAO enrollment process hosted on both '**Mainnet**' network via a PC or on mobile.
+The following guide details instructions on how to participate in the Governor DAO enrollment process hosted on the Ethereum '**Mainnet**' network via a PC or mobile.
 
-**IMPOTANT NOTE:**
+**IMPORTANT NOTE:**
 
-The enrollment works on both PC and Mobile but there are known issues with MetaMask Mobile detailed in troubleshooting guide,
+The enrollment works on both PC and Mobile but there are known issues with MetaMask Mobile detailed in the troubleshooting guide.
 
 ### Connect Wallet and Network
 
@@ -49,7 +48,7 @@ A warning will display if your wallet is connected to the wrong network.
 
 * The 'Human Chat' Telegram chat has been migrated to Mainnet with a link appearing on the website once a PoE token has been minted on Mainnet
 
-If this is your first time the “_**Status of VIP enrolment:**_” will be ‘**Unenrolled**’ or ‘_**Unknown**_’ (if the wallet isn’t connected).
+If this is your first time the “_**Status of VIP enrollment:**_” will be ‘**Unenrolled**’ or ‘_**Unknown**_’ (if the wallet isn’t connected).
 
 ### Start Enrollment
 
@@ -60,8 +59,8 @@ If you want to make sure your camera is lined up with your face, click **“Star
 **Important NOTE:**
 
 * If you appear frozen, i.e. your camera is not tracking your movement, there could be an issue with your webcam. Also, a common issue when using mobile phones (see note at the beginning of the section).
-* Check Lighting conditions are suitable, if there are shadows or room is mixed light the capture may fail.
-* Check Audio is clear.
+* Check to ensure that lighting conditions are suitable. If there are shadows or the room has mixed light the capture may fail.
+* Check to ensure that the audio is clear.
 
 Once you are ready, click ‘_**Start Enrollment**_’ to start the enrollment process.
 
@@ -77,7 +76,7 @@ While recording, a flashing red blinker will appear in the top right corner of t
 
 Description automatically generated](../.gitbook/assets/0.png)
 
-After the 3rd recording a message will be displayed up to 60 later with one of the two messages.
+After the 3rd recording, a message will be displayed up to 60 seconds later with one of the two messages.
 
 \-    ‘_**Congratulations! You have successfully authenticated**_’
 
@@ -85,34 +84,34 @@ After the 3rd recording a message will be displayed up to 60 later with one of t
 
 On success, the following heading will be updated ‘**Status of VIP enrollment**: _Enrolled_’
 
-## PoE Token assignment
+## PoE Token Assignment
 
 **NOTE: Once Say-Tec registration is complete, a PoE token can be minted from the following** [**page**](https://passport.governordao.org) **which will cost a small gas fee to complete the transaction. An automated process runs every 4 hours which collects new enrolments and authorizes the new wallet to mint a PoE token.**
 
-Once the PoE token has been minted access to the Human Telegram group can be accessed from a link which is displayed on detection of the PoE token on [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org) .
+Once the PoE token has been minted access to the 'Humans only' Telegram group can be accessed from a link that is displayed on detection of the PoE token on [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org).
 
-## Verifying enrollment later
+## Verifying Enrollment Later
 
 Once your enrollment has been successful you can return at any time to use the PoC tech to verify your enrollment is functioning.
 
-Whenever returning the PoC page the avatar will appear but instead of an option to ‘_**Start Enrollment**_’ a green ‘_**Start Validation**_’ button will appear instead.
+Whenever returning the PoC page the avatar will appear but instead of an option to ‘_**Start Enrollment,**_’ a green ‘_**Start Validation**_’ button will appear instead.
 
 To validate your registration only capture will be requested as well as video under the normal expected conditions.
 
 * ‘_**Start Validation**_’ – States a wallet has been detected with biometrics registered.
-* ‘_**Start Enrollment**_’ – States a wallet connected but no bio metrics registered, pending an enrollment.
+* ‘_**Start Enrollment**_’ – States a wallet connected but no biometrics registered, pending an enrollment.
 
 ![](../.gitbook/assets/1.png) ![](../.gitbook/assets/2.png)
 
 ## Claiming your Free NFT on Mainnet
 
-Pre-requisites to claim your free NFT:
+Prerequisites to claim your free NFT:
 
-* Successfully enroll and PoE token assigned
+* Successfully enroll and claim your PoE token
 * Purchase or hold 50+ GDAO or xGDAO on Mainnet
 * Claim your free NFT from the following website [URL](https://nft.governordao.org)
 
-Confirm you’ve **successfully enrolled** and **a PoE token has been assigned** (completed the steps previously to Enroll).\
+Confirm you’ve **successfully enrolled** and **a PoE token has been assigned** (completed the steps previously to enroll).\
 
 
 [https://nft.governordao.org](https://nft.governordao.org)
@@ -125,9 +124,9 @@ Confirm you’ve **successfully enrolled** and **a PoE token has been assigned**
 
 Once you have enrolled and minted your PoE token, you can join our GDAO “_**Humans Only**_” Telegram Group on Mainnet.
 
-Note: You must use the link provided by the PoC webpage only (public link will not work!)
+Note: You must use the link provided by the PoE Enrollment Portal webpage only! Other links will not work!
 
-**The following link will only appear when you have received a PoE token at the bottom of the authentication** [<mark style="color:blue;">**page**</mark>](https://onlyoneme.governordao.org)**.**
+**The link to join the "Humans Only" Telegram group will only appear when you have received a PoE token. The link will appear at the bottom of the authentication** [<mark style="color:blue;">**page**</mark>](https://onlyoneme.governordao.org)**.**
 
 Scroll down until you see the option “Join the PoE Telegram Group”
 
@@ -135,17 +134,17 @@ Scroll down until you see the option “Join the PoE Telegram Group”
 
 &#x20;Click ‘_**Join the PoE Telegram Group**_’
 
-&#x20;When pasting link into a browser check option to open in telegram
+&#x20;When pasting the link into a browser, check the option to open in Telegram.
 
 ![](../.gitbook/assets/15.png)
 
-Interact with **Collab. Land** bot in Direct Message (for best results, use Telegram Desktop)
+Interact with **Collab.Land** bot in Direct Message (for best results, use Telegram Desktop)
 
-Click on ‘_**Connect**_’ and navigate to browser which has Metamask unlocked and connected on Mainnet
+Click on ‘_**Connect**_’ and navigate to a browser that has Metamask unlocked and connected on Mainnet
 
 ![](../.gitbook/assets/16.png)![](../.gitbook/assets/17.png)
 
-Follow the steps provided to link your Metamask wallet to **Collab.land**
+Follow the steps provided to link your Metamask wallet to **Collab.Land**
 
 ![](../.gitbook/assets/18.png)_Connect Metamask_
 
@@ -160,11 +159,11 @@ After connection, if the wallet holds a POE token, you will be invited to ‘Joi
 
 Click ‘_**Join Group**_’
 
-If sign up fails (wrong address, no POE ownership, etc.) then restart the process by clicking on “_**Connect**_” command in the Bot messages. Further attempts to join the group (via “**join group**” command) will auto-deny access.
+If sign-up fails (wrong address, no POE ownership, etc.) then restart the process by clicking on the “_**Connect**_” command in the Bot messages. Further attempts to join the group (via the “**join group**” command) will auto-deny access.
 
 ![](../.gitbook/assets/22.png)
 
-_Warning if no PoE token detected_
+_Warning if no PoE token is detected_
 
 Unless for reasons stated as follows, the user has lifetime access to the group. Revocation of the token or discretion of admins can result in removal of the user from the group.
 
