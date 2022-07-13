@@ -1,6 +1,6 @@
-# GDAO leveling the voting landscape
+# GDAO Leveling the Voting Landscape
 
-**GDAO leveling the voting landscape with their Proof of Existence Vision**
+**GDAO Leveling the Voting Landscape with Their Proof of Existence Vision**
 
 Navigating the crypto realm can feel overwhelming at times. There’s so much to learn and countless avenues of information that are all parts of this constantly developing technology. One unique aspect of the crypto space is how numerous projects aim to listen to the will of their investors. Community driven projects typically develop in a direction that is voted upon by the token holders of the project. Sort of similar to how a nation might attempt to represent the will of the people. However as we all know, between the time when the people cast their votes to the stroke of the politician’s pen there is often much lost in translation. Unlike a typical representative system, most structured community driven crypto projects have a voting apparatus in place that allows both the big time investors and everyday average crypto-joe token holders to make their suggestions for improvement or the project’s direction known to the development team.
 
@@ -12,6 +12,6 @@ Governor DAO, in collaboration with Finnovant, has implemented a biometric Proof
 
 The use of PoE is more than just initial voter verification. PoE could be queried AFTER a vote has concluded to show the percentage of votes that are verified authentic. PoE subtypes could also be used to demarcate developer or team-member/influencer votes so that they are considered differently. In fact, a member of a community does not even need to be a holder of the token. In a situation where any member, regardless of investment, is participating in a vote, the number of votes submitted by each individual can still be verified.
 
-Gone are the days where a huge token holder, or the development team, can swing their weight around to unfairly sway a proposal. Furthermore, by leveling the playing field GovernorDOA aims to increase engagement across all community members within a project. Studies show that once someone knows each vote carries the same power, they will be more inclined to be involved with the development of a project. Since GDAO’s Proof of Existence technology continues to hold the user anonymous, yet marked as an individual - the outcome is a perfect solution for DAOs and projects looking to maximize voting to build out the future of their platform.
+Gone are the days where a huge token holder, or the development team, can swing their weight around to unfairly sway a proposal. Furthermore, by leveling the playing field Governor DAO aims to increase engagement across all community members within a project. Studies show that once someone knows each vote carries the same power, they will be more inclined to be involved with the development of a project. Since GDAO’s Proof of Existence technology continues to hold the user anonymous, yet marked as an individual - the outcome is a perfect solution for DAOs and projects looking to maximize voting to build out the future of their platform.
 
 _If you are a project looking to integrate PoE into your voting strategy, contact us._

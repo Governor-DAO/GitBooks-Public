@@ -24,7 +24,7 @@
 
 * [🗳 DAO Voting / Concepts](dao-voting-concepts/README.md)
   * [Project Voting & Challenges](dao-voting-concepts/project-voting-and-challenges.md)
-  * [GDAO leveling the voting landscape](dao-voting-concepts/gdao-leveling-the-voting-landscape.md)
+  * [GDAO Leveling the Voting Landscape](dao-voting-concepts/gdao-leveling-the-voting-landscape.md)
 
 ## 👩‍🚀 GovernorDAO Developers
 
@@ -34,7 +34,7 @@
 
 * [Governance Vault Deployment Variables](governance-2.0-documentation/governance-vault-deployment-variables.md)
 * [FAQ Governance Vault](governance-2.0-documentation/faq-governance-vault.md)
-* [Governor DAO Proof of Existence Use cases](governance-2.0-documentation/governor-dao-proof-of-existence-use-cases.md)
+* [Governor DAO Proof of Existence Use Cases](governance-2.0-documentation/governor-dao-proof-of-existence-use-cases.md)
 
 ## 💡 Additional Resources
 
@@ -75,7 +75,7 @@
 * [Governance Vault User Guide](how-to-section/governance-vault-user-guide.md)
 * [MDAO LGE Guide \[ Muse DAO\]](how-to-section/mdao-lge-guide-muse-dao.md)
 * [Get Some MATIC (Buy/Bridge)](how-to-section/get-some-matic-buy-bridge.md)
-* [Polygon Chain - Matic management](how-to-section/polygon-chain-matic-management.md)
+* [Polygon Chain - MATIC Management](how-to-section/polygon-chain-matic-management.md)
 * [How to Integrate PoE to Snapshot](how-to-section/how-to-integrate-poe-to-snapshot.md)
 
 ## Hiring

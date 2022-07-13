@@ -1,5 +1,5 @@
 ---
-description: Common terminology used throughout the Governor DAO eco system
+description: Common terminology used throughout the Governor DAO ecosystem
 ---
 
 # 📓 Glossary of Terms
@@ -26,7 +26,7 @@ description: Common terminology used throughout the Governor DAO eco system
 **Automated Market Maker (AMM):** A particular instance of a decentralized exchange where all liquidity (collective buy and sell orders) are pooled together. Traders can only place market buys/sales and the price moves up or down with every trade.\
 ****
 
-**Liquidity/Liquidity Providing:** The act of contributing capital to an AMM where it is used as the orderbook for traders to sell into/buy out of.\
+**Liquidity/Liquidity Providing:** The act of contributing capital to an AMM where it is used as the order book for traders to sell into/buy out of.\
 ****
 
 **Decentralized Autonomous Organization (DAO):** A tokenized entity (almost akin to a corporation) where ownership and management responsibilities are delegated to token holders.

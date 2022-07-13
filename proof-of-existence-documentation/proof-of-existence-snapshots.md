@@ -1,18 +1,8 @@
----
-description: >-
-  A dedicated Proof of Existence token Snapshot has been set up to further
-  implement our vision of “One Voice, One Vote.”
-  [https://snapshot.org/#/proofofexistance.eth]   This snapshot is different
-  from
----
-
 # Proof of Existence Snapshots
 
 A dedicated Proof of Existence token Snapshot has been set up to further implement our vision of “One Voice, One Vote.” \[[https://snapshot.org/#/proofofexistance.eth](https://snapshot.org/#/proofofexistance.eth)]
 
-This snapshot is different from the GDAO snapshot in a few fundamental ways: primarily because the maximum amount of PoE tokens any one holder can have is one, allowing for a TRUE vote to be run similar to a democratic voting process. The PoE snapshot allows for TRUE Sybil Resistant voting with each person being able to vote only once, and ALL votes are weighted evenly. Holdings of GDAO are irrelevant to the PoE vote.
-
-With this new process we can utilize the PoE snapshot for a “new” voting mechanism - hearing directly from the DAO members on an individual level - which allows for smaller holders or holders without GDAO currently in their wallet to take part.
+This snapshot is different from the GDAO snapshot in a few fundamental ways: primarily because the maximum amount of PoE tokens any one holder can have is one. This allows, for a multitude of verifiably fair voting processes. Most notably the PoE snapshot allows for TRUE Sybil resistant voting with each person being able to vote only once, with ALL votes weighted evenly.&#x20;
 
 The previous GDAO snapshot page can still be used alongside this PoE Snapshot page to get a weighted vote with two inputs - similar to the Electoral College (USA). An example is below:
 

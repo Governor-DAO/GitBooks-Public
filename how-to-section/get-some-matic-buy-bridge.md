@@ -13,7 +13,7 @@ There are numerous ways to fund your Polygon wallet with $MATIC for use during N
 <!---->
 
 * [ ] a. Purchase value in MATIC using exchange from another held crypto or via bank ACH/Credit card.
-* [ ] b. Withdraw MATIC to your metamask wallet via the withdraw tab.
+* [ ] b. Withdraw MATIC to your MetaMask wallet via the withdraw tab.
 
 <!---->
 

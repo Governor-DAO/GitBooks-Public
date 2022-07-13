@@ -20,7 +20,7 @@
 |   |                                                                                                             |
 |   |                                                                                                             |
 |   | # Rinkeby                                                                                                   |
-|   | GovernorDAO                                                                                                 |
+|   | Governor DAO                                                                                                |
 |   | 0xd326bbd1B7D0Fcc48e83279AcB842dF93b03fb2e                                                                  |
 |   | https://rinkeby.etherscan.io/address/0xd326bbd1b7d0fcc48e83279acb842df93b03fb2e                             |
 |   |                                                                                                             |

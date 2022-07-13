@@ -30,9 +30,9 @@ There are several strategies we can employ to maintain privileged/permissioned r
 
 The Governance Vault is a powerful, scaling, future-proof mechanism to bake Governor DAO accounting and finances into code. Modular smart contracts work together to handle incoming revenue and distribute per the rules set by token holders.
 
-**There are three components to this design:**&#x20;
+**There are 3 Components to this Design:**&#x20;
 
-1\.   On-chain product(s). On-chain products drive ETH and ERC20 tokens to the Buyback Agent.&#x20;
+1\.   On-chain product(s). On-chain products drive ETH and ERC-20 tokens to the Buyback Agent.&#x20;
 
 2\.   Buyback Agent - The Buyback Agent splits the incoming revenue stream in several different directions (earnings to the treasury, dividends to holders, DEX liquidity adds)
 
@@ -48,7 +48,7 @@ xGDAO Vault is the key component that gives GDAO holders immutable keys to the k
 
 The biggest distinction is that there is no “team” or “admin” that operates these functions. Token holders are the owners: this is fully autonomous revenue management.
 
-The Governance Vault has been eployed alongside the Proof-of-Existence whitelist, which will take a sign-up fee priced in ETH in the future. ETH from POE signups goes to the Buyback Agent, which in turn delivers ETH to the specified destinations (a) liquidity add, (b) GDAO buyback and delivery to xGDAO participants, (c) treasury draw. Other revenue including LGE (Liquid Generation Events) or NFT sales from the NFT [Launchpad](https://nft.governordao.org/) will be sent to the buyback contract.
+The Governance Vault has been deployed alongside the Proof-of-Existence whitelist, which will take a sign-up fee priced in ETH in the future. ETH from POE signups goes to the Buyback Agent, which in turn delivers ETH to the specified destinations (a) liquidity add, (b) GDAO buyback and delivery to xGDAO participants, (c) treasury draw. Other revenue including LGE (Liquid Generation Events) or NFT sales from the NFT [Launchpad](https://nft.governordao.org/) will be sent to the buyback contract.
 
 For the GDAO holder, the interactions go like this:
 
@@ -56,23 +56,23 @@ For the GDAO holder, the interactions go like this:
 2. ETH from on-chain revenue buys GDAO. This GDAO is awarded to all xGDAO holders by increasing the GDAO value of every xGDAO.
    1. xGDAO is representative of GDAO in the Governance vault. Every time there is a buyback, the GDAO value of xGDAO increases.
    2. As such, participants holding xGDAO passively earn more GDAO over time.
-3. xGDAO also Governs the associated contracts. xGDAO holders can vote to adjust the monetary policy by changing what % of revenue is sent to each destination through the Buyback Agent (in other words, xGDAO holders autonomously determine what % of revenue goes to liquidity, GDAO buyback for xGDAO/ETH to treasury, or GDAO buyback to treasury)
+3. xGDAO also Governs the associated contracts. xGDAO holders can vote to adjust the monetary policy by changing what % of revenue is sent to each destination through the Buyback Agent (in other words, xGDAO holders autonomously determine what % of revenue goes to liquidity, GDAO buybacks for xGDAO/ETH to treasury, or GDAO buyback to treasury)
 
 It’s important to recognize that xGDAO yield comes from open market buybacks driven by on-chain revenue. Without healthy enrollments and adoption of POE, buybacks/dividends will remain minimal.&#x20;
 
-In order for the Governance Vault and initial product rollouts to reach mass adoption, the GDAO community needs to engage with these contracts, test the products, refer their friends, and help spread adoption organically. In true DAO fashion, Governor succeeds with everyone’s involvement!
+In order for the Governance Vault and initial product rollouts to reach mass adoption, the GDAO community needs to engage with these contracts, test the products, refer their friends, and help spread adoption organically. In true DAO fashion, Governor DAO succeeds with everyone’s involvement!
 
-### **Okay, So what does this mean for me?**
+### **Okay, so what does this mean for me?**
 
 The Governance Vault is designed to be a massively scaling, future-proof engine that permanently positions GDAO and GDAO holders at the center of everything in the Governor ecosystem.
 
-In real-life terms, the Governance Vault means that we can easily append every Governor product and buildout to the existing framework, with each instance generating revenue that buys back GDAO and delivers to the holders who participate in xGDAO.
+The Governance Vault us to easily append every Governor product and buildout to the existing framework, with each instance generating revenue that buys back GDAO and delivers it to xGDAO holders through the Governance Vault.
 
-GDAO is working towards the “DAO of DAOs” future, and with that, a suite of products that have massive network effects (they become more worthwhile and profitable to GDAO holders the bigger they are).
+GDAO's suite of products have the potential for massive network effects, becoming more profitable as their adoption grows.
 
-Because of this “get the ball rolling” set up, the engagement of the core GDAO holders is the most important part in getting this entire behemoth situated for success. Governor was designed around the ethos that DAOs should encourage the engagement of every token holder, and the DAO should be situated in such a way where that engagement drives value to the DAO and awards incentives for that engagement. This is our way to guarantee growth within the Governor community.
+Because of this “get the ball rolling” set up, the engagement of the core GDAO holders is the most important part in getting this entire behemoth situated for success. Governor was designed around the ethos that DAOs should encourage the engagement of every token holder, and the DAO should be situated in such a way where that engagement drives value to the DAO and awards incentives for that engagement. This is our way to guarantee growth within the Governor community. We have seen success witht his model with the introduction of our GDAO Ambassadors Program.
 
-Enabling the early adoption of this unique, unparalleled technology will further bridge the gap in blockchains integration into our daily lives as well as fuel the fire that is Decentralized Governance and DAOs. ****&#x20;
+
 
 ### **Governance Vault User Guide**
 
@@ -80,18 +80,18 @@ Head over to [https://vault.governordao.org/](https://vault.governordao.org/) an
 
 ![](https://lh6.googleusercontent.com/wz\_cOuVgYOU1gVvSrSzWTFq75WlpesMIqgLUl493b-r5NwULAPjTWgAhpfMs4IhTTgbqTkUfUYIzr35q4hMdZFSUPYGHL8OMWDjU7D27Y9KyNlX5oEZmVMbhILy1dJxbKQx3RBWT=s0)
 
-**Basic Vault functionality**
+**Basic Vault Functionality**
 
 * Deposit GDAO to vault
 * Withdraw GDAO from the xGDAO contract.&#x20;
 
-**x**GDAO is a tokenized share of all GDAO in the governance vault.
+xGDAO is a tokenized share of all GDAO in the governance vault.
 
 When depositing GDAO, you receive a corresponding amount of xGDAO depending on the current xGDAO:GDAO ratio. Initially, 1 GDAO = 1 xGDAO. Every time a buyback takes place, the GDAO value of xGDAO increases.
 
-**NOTE:** There are two fees on xGDAO, a 10% decaying fee on early withdrawal and a 3% entry tax on non-authenticated users (those who don’t hold POE). \[NOTE: 3% entry tax not currently in deployment]\
+**NOTE:** There are two fees on xGDAO, a 10% decaying fee on early withdrawal and a 3% entry tax on non-authenticated users (those who don’t hold POE).\
 ****\
-**For example:**
+**For Example:**
 
 * You are the first and only depositor. You deposit 100 GDAO and receive 100 xGDAO.\
   ****\
@@ -139,19 +139,17 @@ Deposit/withdrawal in/out from xGDAO. Cycle between the deposit/withdraw tabs. N
 
 ![](https://lh5.googleusercontent.com/fHbKSRkVBQs23xSCw6zTadsJtfMrvgbgMZpmsfH6gzlqXedVsylvuqkXieXNyTkeSEITHKXVmpVpLBwhzPDmAdC4Rb0Q5LDhg1TvmGOHxlYaAnXwc3FO79FmqPDvVhCyHscLBs88=s0)
 
-**Warning on a Non PoE fee**
+**Warning on a Non PoE Fee**
 
-If the connected wallet to the vault does contain a PoE \[Proof of Existence] token there a 3% fee will be deducted on deposit and distributed to other GDAO holders in the vault. To avoid the fee sign up on the VIP [portal](https://onlyoneme.govenordao.org)
+If the connected wallet to the vault does contain a PoE \[Proof of Existence] token, a 3% fee will be deducted on deposit and distributed to other GDAO holders in the vault. To avoid the fee, sign up for your own PoE token though the [Proof of Existence Portal](https://onlyoneme.governordao.org)
 
 ![](<../.gitbook/assets/image (9).png>)
 
-**Warning on early withdraw decay fee**
+**Warning on Early Withdrawal Decay Fee**
 
-As mentioned, a withdraw under 10 days will result in a % decay fee which decreasing daily.
+As mentioned, an early withdrawal before the 10 day period will result in a decaying fee % which decreases daily.
 
 ![](<../.gitbook/assets/image (4).png>)
-
-
 
 In order to prevent gaming, there is a decaying fee on withdrawal. This is to prevent someone from depositing GDAO right before a buyback and withdrawing right after. If you deposit more, your time decay resets. The fee starts at 10% and decays -1% each day. Therefore if you deposit 1000 GDAO and decide to withdraw within 24 hours your GDAO withdrawal will be 900 GDAO.
 
@@ -159,11 +157,11 @@ You should notice that your GDAO/xGDAO balances will change with these interacti
 
 ![](<../.gitbook/assets/image (12).png>)
 
-#### **POE Purchase (Work In Progress)**
+**PoE Purchase**&#x20;
 
-At a later date purchasing a PoE token will require an ETH transaction purchase fee to sign up. The cost of purchase will be priced around a bonding curve: cheap for the first signups and increasingly expensive over time (with more signups, the value of being part of the list increases as more and more projects will be looking to leverage the “global whitelist”).
+In its current setup the PoE token is free + gas to claim. At a later date the cost of the PoE token will be priced around a bonding curve: cheap for the first signups and increasingly expensive over time (with more signups, the value of being part of the list increases as more and more projects will be looking to leverage the “global whitelist”).
 
-Purchasing PoE token with a referral URL \[Functionality Not available until PoE dispenser functional]\
+Purchasing a PoE token with the referral URL \[[https://passport.governordao.org](https://passport.governordao.org)]\
 By default a referral link will be displayed in the following format :
 
 [**https://vault.governordao.org/?ref=0x**](https://vault.governordao.org/?ref=0x)**\<ETH\_Wallet\_Address>**
@@ -172,7 +170,7 @@ By default a referral link will be displayed in the following format :
 
 The URL link can be shared exposing your ETH wallet address or you have the option to hash the wallet address which will mask the identity of the wallet and provide you with a new referral URL which will typically look twice the size but the address won’t be in a recognized format.&#x20;
 
-**Important note :** The hashing of your wallet address is specific to the vault smart contract only, no changes are made to your Metamask or connecting wallet.&#x20;
+**Important note:** The hashing of your wallet address is specific to the vault smart contract only, no changes are made to your Metamask or connecting wallet.&#x20;
 
 To hash your wallet address a one off charge \[ETH/GAS] will need to be approved\
 ****
@@ -188,13 +186,13 @@ If the referral is an authenticated address as the owner of the referral address
 
 #### **Execute Buyback**
 
-ETH from POE purchases are sent to the “Buyback Agent”. The Buyback Agent sends that ETH in a number of configured directions.&#x20;
+ETH from PoE purchases are sent to the “Buyback Agent”. The Buyback Agent sends that ETH in a number of configured directions.&#x20;
 
 * The execution buys GDAO to add liquidity to the vault resulting in rewards to xGDAO participants.
 * ETH is also sent to the treasury to build reserves.
 * A % reward to the “contract caller”..&#x20;
 
-Smart contracts do not operate by themselves- they need addresses to kick off these transactions. Anyone can execute the buyback, and in doing so, they get a “caller fee” to cover gas + a small reward.
+Smart contracts do not operate by themselves - they need addresses to kick off transactions. Anyone can execute the buyback, and in doing so, they get a “caller fee” to help cover gas fees + a small reward.
 
 ****\
 ****
@@ -209,25 +207,23 @@ In production, the goal will be to normalize the revenue “drip” from the Buy
 2. Nominal ETH limit to prevent sandwich attacks that prey on large Uniswap purchases.
 3. \[optional] ETH buyback minimum to prevent dust/DOS attacks.
 
-#### **Raising Issues through to the team**
+#### **Raising Issues Through to the Team**
 
 If any issues are experienced with enrollment or website issues, there are several options to source assistance
 
-**Telegram Community chat,**&#x20;
+&#x20;**Request a Team Member in the following Governor Dao Community Spaces:**
 
-**Request an admin in the following GovernorDao Chat**[ **https://t.me/GovernorProject**](https://t.me/GovernorProject)
+**Governor DAO Telegram -**[ **https://t.me/GovernorProject**](https://t.me/GovernorProject)****
 
-&#x20;**GovernorDAO Discord**[ **https://discord.gg/MVh5NkN7gt**](https://discord.gg/MVh5NkN7gt)
+**Governor DAO Discord -**[ **https://discord.gg/MVh5NkN7gt**](https://discord.gg/MVh5NkN7gt)
 
-&#x20;**Governordao Blog WordPress server, navigate to** [**https://blog.governordao.org/help-desk-form/**](https://blog.governordao.org/help-desk-form/)
+**Governor Dao Blog -** [**https://blog.governordao.org/help-desk-form/**](https://blog.governordao.org/help-desk-form/)
 
-**·         Log a support request through WordPress form**\
-****\
 ****
 
-### **Glossary**
+## **Glossary**
 
-#### **General Blockchain**
+**General Blockchain**
 
 **ERC20:** Standard token format for fungible assets on the Ethereum blockchain. GDAO is an ERC20.\
 ****
@@ -235,7 +231,7 @@ If any issues are experienced with enrollment or website issues, there are sever
 **Gas:** The ETH fee required to send transactions on the Ethereum blockchain.\
 ****
 
-**Smart** Contracts: Codified interactions that exist on the blockchain. Smart contracts assert a financial exchange between two or more parties.\
+**Smart Contracts**: Codified interactions that exist on the blockchain. Smart contracts assert a financial exchange between two or more parties.\
 ****
 
 **On-Chain:** Interactions that happen on the blockchain. Ownership, revenue management, products, and more that exists on the blockchain: which ensures that those activities are decentralized, transparent, and infallible.\
@@ -247,7 +243,7 @@ If any issues are experienced with enrollment or website issues, there are sever
 **Automated Market Maker (AMM):** A particular instance of a decentralized exchange where all liquidity (collective buy and sell orders) are pooled together. Traders can only place market buys/sales and the price moves up or down with every trade.\
 ****
 
-**Liquidity/Liquidity Providing:** The act of contributing capital to an AMM where it is used as the orderbook for traders to sell into/buy out of.\
+**Liquidity/Liquidity Providing:** The act of contributing capital to an AMM where it is used as the order book for traders to sell and buy out of.\
 ****
 
 **Decentralized Autonomous Organization (DAO):** A tokenized entity (almost akin to a corporation) where ownership and management responsibilities are delegated to token holders.
@@ -268,7 +264,7 @@ If any issues are experienced with enrollment or website issues, there are sever
 **Buyback Agent:** A smart contract responsible for Governor DAO revenue strategy. On-chain revenue is sent to the Buyback Agent, which then converts and sends to destinations as needed. Buyback Agent will buy GDAO from the open market to deliver to xGDAO participants as revenue share, as well as to replenish the treasury and add liquidity.\
 ****
 
-**Proof-of-Existence (POE):** Governor DAO’s biometric blockchain product that tags Ethereum addresses as belonging to provably unique individuals. The POE itself is a non-transferrable ERC20 that is anchored to the wallets of users who sign up. Any developer can reference that POE token to create authenticated smart contracts.\
+**Proof-of-Existence (PoE):** Governor DAO’s biometric blockchain product that tags Ethereum addresses as belonging to provably unique individuals. The POE itself is a non-transferrable ERC20 that is anchored to the wallets of users who sign up. Any developer can reference that POE token to create authenticated smart contracts.\
 ****\
 ****
 

@@ -1,18 +1,18 @@
 ---
-description: Guide to acquire matic on Polygon network
+description: Guide to Acquire MATIC on the Polygon Network
 ---
 
-# Polygon Chain - Matic management
+# Polygon Chain - MATIC Management
 
 Polygon Chain
 
 Buying MATIC / Bridging to Prepare for Purchase
 
-### Off-chain - Centralized Exchange \[CEX]
+### Off-Chain - Centralized Exchange \[CEX]
 
 There are numerous ways to fund your Polygon wallet with $MATIC for use during NFT mints and token sales: below we categorize them based on value and ease of the process.
 
-**Purchase Matic through an exchange**
+**Purchase Matic Through an Exchange**
 
 1\. Buy Polygon directly from Coinbase or another centralized exchange (Kucoin, Binance) and send directly to your MATIC wallet address via withdrawal. This process circumvents ETH gas fees and will cost less than $1 in all cases.
 
@@ -41,11 +41,11 @@ There are numerous ways to fund your Polygon wallet with $MATIC for use during N
 
 Note: Be sure you are bridging from ETH **TO** MATIC.
 
-#### Claiming free matic from Faucet
+#### Claiming Free MATIC from Faucet
 
 You can obtain enough MATIC for gas fees from a faucet such as [https://matic.supply/](https://matic.supply/). Claiming will provide sufficient Matic to potentially claim an a free NFT on the Polygon Chain.
 
-#### Add Polygon Network to your wallet
+#### Add Polygon Network to Your Wallet
 
 Once you have completed one of the three methods above you will have MATIC in your wallet.
 

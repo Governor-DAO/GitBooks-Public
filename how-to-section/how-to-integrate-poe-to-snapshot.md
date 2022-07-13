@@ -10,11 +10,11 @@ description: >-
 Snapshot Setup Official Video
 {% endembed %}
 
-### 1. Get an ENS domain for your space
+### 1. Get an ENS Domain for Your Space
 
 If you haven't already, follow this guide - [https://docs.snapshot.org/spaces/before-creating-your-space](https://docs.snapshot.org/spaces/before-creating-your-space) to get your ENS domain.&#x20;
 
-### 2. Link your ENS domain to Snapshot
+### 2. Link Your ENS Domain to Snapshot
 
 Once you have created your ENS domain, Go to this URL and modify the tag with your ENS domain. `https://snapshot.org/#/`**`<ENS DOMAIN>`**`/settings` and login with the wallet that owns the ENS domain.
 
@@ -23,7 +23,7 @@ Once you have created your ENS domain, Go to this URL and modify the tag with yo
 Once connected, the **\<your-address>** tag will be replaced with your wallet address.
 
 {% hint style="info" %}
-You will need a wallet that can sign message like MetaMask, Fortmatic, Portis, Argent. Don't use a Gnosis Safe has they are currently not supported.
+You will need a wallet that can sign messages like MetaMask, Fortmatic, Portis, Argent. Don't use a Gnosis Safe as they are currently not supported.
 {% endhint %}
 
 ![](<../.gitbook/assets/Set your ipns link.png>)
@@ -39,7 +39,7 @@ If you are on your domain space and connected with your wallet you will see the 
 
 ![](../.gitbook/assets/snapshot.gif)
 
-### **3. Setup your space settings**
+### **3. Setup Your Space Settings**
 
 Refresh the Snapshot settings page `https://snapshot.org/#/`**`<ENS DOMAIN>`**`/settings` to see the space setting.
 
@@ -60,9 +60,9 @@ Refresh the Snapshot settings page `https://snapshot.org/#/`**`<ENS DOMAIN>`**`/
 ![](<../.gitbook/assets/Select a skin.png>)
 
 * **Twitter** and **Github** just add a username to link to your different accounts.
-* **Domain name** is optional but you can [add a custom domain](broken-reference).
+* **Domain Name** is optional but you can [add a custom domain](broken-reference).
 * **Terms** links to your website's terms and conditions.
-* **Hide space from homepage** if you want to keep your space "private".
+* **Hide Space from the Home Page** if you want to keep your space "private".
 
 #### **Strategies**
 
@@ -102,9 +102,9 @@ Members will be able to create proposals without being constrained by filters. Y
 
 #### Filters
 
-* **Proposal threshold** is the minimum number of tokens required to create a proposal, since we are working with a single token this should be set to 1.
-* **Proposal validation** is a custom function to validate if someone can post a proposal or not. You can use the basic validation by default which takes your voting power with space strategies and checks if you pass a defined threshold. Others are available but the default is recommended.
-* **Allow only members to submit a proposal** makes sure that only members specified in members field are allowed to submit a proposal.&#x20;
+* **Proposal Threshold** is the minimum number of tokens required to create a proposal, since we are working with a single token this should be set to 1.
+* **Proposal Validation** is a custom function to validate if someone can post a proposal or not. You can use the basic validation by default which takes your voting power with space strategies and checks if you pass a defined threshold. Others are available but the default is recommended.
+* **Allow Only Members to Submit a Proposal** makes sure that only members specified in members field are allowed to submit a proposal.&#x20;
 
 ![](<../.gitbook/assets/Screenshot (179).png>)
 
@@ -112,7 +112,7 @@ Members will be able to create proposals without being constrained by filters. Y
 
 Plugins give extra features for your space. Explore plugins as needed, be sure to thoroughly understand what plugins DO before adding them and possibly breaking voting logic.&#x20;
 
-### 4. Save your settings
+### 4. Save Your Settings
 
 Click "**Save**" then confirm the action in your wallet.
 
