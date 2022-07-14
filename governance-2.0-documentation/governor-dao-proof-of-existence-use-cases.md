@@ -89,12 +89,10 @@ GDAO’s Proof of Existence (PoE) token allows for verification of one user to o
 
 **Problem Explanation / Challenge**
 
-Gas wars typically the outcome of a mass in flood of frontrunning bots attempting to take the lead on purchasing NFT's and tokens by elevating the gas price higher than practical for most people taking part in the sale. The high gas configuration in combination of the many bots pushing the gas demands up results in innocent participants paying excessive gas for sometimes a low cost NFT mint or for a small allocation of a token sale.
+Gas wars are typically the outcome of a mass flood of front-running bots attempting to take the lead on purchasing NFTs or tokens by elevating the gas price higher than practical for most people taking part in the sale. The high gas configuration, combined with the many bots pushing the gas demands up, results in innocent participants paying excessive gas for a low-cost NFT mint or a small token sale allocation.
 
 **Mitigation Strategy**
 
-Gas wars minimized by utilizing the PoE integrations into planned launches or sales
-
-
+Gas wars minimized by utilizing the PoE integrations into planned launches or sales.
 
 Sign up today for a PoE token to fight for Sybil Resistance [https://onlyoneme.governordao.org/](https://onlyoneme.governordao.org/)
