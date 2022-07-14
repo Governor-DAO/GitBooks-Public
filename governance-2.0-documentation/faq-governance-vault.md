@@ -86,15 +86,15 @@ xGDAO is an ERC-20 token therefore can be moved to any ERC-20 compliant wallet. 
 
 16\. **How can I see my xGDAO after I have staked my GDAO?**
 
-Once GDAO has been staked in the vault and receive xGDAO, to view xGDAO in your wallet adding the xGDAO contract ID to your wallet will display your holdings **0x306978da6ebee060375f35418744f85c1cb6b353** or in the vault in the ‘Wallet/Vault Balances’ panel, there is an option to add the contract addresses to your wallet, click on the foxes.
+Once GDAO has been staked in the vault and you receive xGDAO, you can view xGDAO in your wallet by adding the xGDAO contract ID to your wallet and it will then display your holdings.&#x20;
+
+xGDAO Contract: 0x306978da6ebee060375f35418744f85c1cb6b353&#x20;
+
+Additionally, there is an option to add the contract addresses to your wallet in the "Wallet/Vault Balances" panel of the Vault. Just click on the foxes.
 
 ![Click fox to add GDAO / xGDAO](<../.gitbook/assets/image (3).png>)
 
-17\. **How can I see my xGDAO after I have staked my GDAO?**
-
-Once GDAO has been staked in the vault and you receive xGDAO, you can view xGDAO in your wallet by adding the xGDAO contract ID to your wallet and it will then display your holdings.
-
-18\. **How do I find out more regarding the vault?**
+17\. **How do I find out more regarding the vault?**
 
 You can learn more about the Vault in this [user guide](https://docs.governordao.org/how-to-section/governance-vault-user-guide).
 
