@@ -1,7 +1,7 @@
 ---
 description: >-
-  One Pager on the high level steps to enroll on the VIP Portal to gain a PoE
-  token.
+  One pager on the high-level steps to enroll on the VIP Portal to gain a PoE
+  token
 ---
 
 # PoE VIP Process - 4 Stages

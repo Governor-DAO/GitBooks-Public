@@ -96,8 +96,10 @@ Once GDAO has been staked in the vault and receive xGDAO, to view xGDAO in your 
 
 18\. **How do I find out more regarding the vault ?**
 
-Following guide provides coverage on the vault components.
+You can learn more about the Vault within this user guide:
 
-[https://docs.governordao.org/how-to-section/governance-vault-user-guide](https://docs.governordao.org/how-to-section/governance-vault-user-guide)
+[**https://docs.governordao.org/how-to-section/governance-vault-user-guide**](https://docs.governordao.org/how-to-section/governance-vault-user-guide)****
+
+
 
 ![Vault Buyback Overview](<../.gitbook/assets/Vault-Only-Diagram-V1-Large (1) (1).jpg>)
