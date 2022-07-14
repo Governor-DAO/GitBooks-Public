@@ -23,7 +23,7 @@
 ***
 
 * [🗳 DAO Voting / Concepts](dao-voting-concepts/README.md)
-  * [Project Voting & Challenges](dao-voting-concepts/project-voting-and-challenges.md)
+  * [Project Voting Challenges & PoE Solutions](dao-voting-concepts/project-voting-challenges-and-poe-solutions.md)
   * [GDAO Leveling the Voting Landscape](dao-voting-concepts/gdao-leveling-the-voting-landscape.md)
 
 ## 👩‍🚀 GovernorDAO Developers
