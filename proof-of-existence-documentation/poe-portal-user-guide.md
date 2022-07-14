@@ -169,7 +169,7 @@ Unless for reasons stated as follows, the user has lifetime access to the group.
 
 ## Troubleshooting Guide
 
-The following details issues which may be encountered during the PoC including enrollment.
+The following issues may be encountered during PoE enrollment.
 
 1\.   Ensure there is suitable lighting when recording.
 
@@ -179,15 +179,15 @@ The following details issues which may be encountered during the PoC including e
 
 4\.   Only one ‘_**VIP**_’ enrollment and one wallet can be registered, if a person attempts to register a 2nd wallet, they will experience an enrollment failure. The Say-Tec technology will detect that person's previous enrollment.
 
-5\.   If any of the 3 recordings required to complete the enrollment differ in quality too much, for example on one the audio is picked up the enrollment will fail. The aim is to record 3 recordings staring into the camera and recording the same catch phrase consistently.
+5\.   If any of the 3 recordings required to complete the enrollment differ too much (for example, poor audio quality on one of the recordings), the enrollment will fail. The aim is to record 3 recordings staring into the camera and recording the same catchphrase consistently.
 
-6\.   If issues are experienced during enrollment after the above conditions have been followed, we recommend reaching out to an admin. As Governor DAO is a consumer to the ‘Say-Tec’ technology the team can assist with confirming the details have been followed above but outside that the Finnovant support team will need to be engaged. In this case the following information would be required to provide coverage on the potential issues.
+6\.   If you experience issues while following the above conditions during enrollment, we recommend reaching out to an admin or GDAO Ambassador. As Governor DAO is a consumer of the ‘Say-Tec’ technology, the team can assist with confirming the details have been followed above, but outside that, the Finnovant support team will need to be engaged. In this case, the following information is required:
 
-\-    ETH Wallet Address used as part of registration
+\-    ETH wallet address used during registration
 
-\-    Which Browser, version
+\-    Which browser and version you are using
 
-\-    What wallet Metamask / WalletConnect
+\-     What wallet you are using. e.g. Metamask / WalletConnect
 
 \-    Date / Time of enrollment attempt including time zone
 
