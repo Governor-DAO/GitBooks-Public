@@ -151,9 +151,9 @@ Follow the steps provided to link your Metamask wallet to **Collab.Land**
 You **MUST** connect with the same wallet you supplied for enrollment. Confirm wallet and ‘_**Connect**_’ and ‘_**Sign**_’
 
 ![](../.gitbook/assets/19.png)![](../.gitbook/assets/20.png)__\
-_Pop-up messages before sent to telegram_
+_Pop-up messages before being sent to telegram_
 
-After connection, if the wallet holds a POE token, you will be invited to ‘Join Group’ after presented with following message
+After connection, if the wallet holds a POE token, you will be invited to ‘Join Group’ after being presented with the following message
 
 ![](../.gitbook/assets/21.png)
 
@@ -195,51 +195,46 @@ The following issues may be encountered during PoE enrollment.
 
 If any issues are experienced with enrollment or website issues, there are several options to source assistance
 
-* **Telegram Community chat**, request an admin in the following GovernorDao Chat [https://t.me/GovernorProject](https://t.me/GovernorProject)
-* **GovernorDAO Discord** [https://discord.gg/MVh5NkN7gt](https://discord.gg/MVh5NkN7gt)
-* **Governordao Blog WordPress server**, navigate to [https://blog.governordao.org/](https://blog.governordao.org/)
-* Click on message bubble at bottom right corner of screen
+* **Telegram Community Chat:** request an admin in the following GovernorDao Chat [https://t.me/GovernorProject](https://t.me/GovernorProject)
+* **Governor DAO Discord:** [https://discord.gg/MVh5NkN7gt](https://discord.gg/MVh5NkN7gt)
+* **Log a support request through the** [**WordPress form**](https://blog.governordao.org/help-desk-form/)
+* **Governor DAO Blog WordPress Live Chat:** [https://blog.governordao.org/](https://blog.governordao.org/)
+  * Click on the message bubble at the bottom right corner of the screen
+  * When the green icon is lit a live agent is available, a grey icon means the agent is offline
+  * If the chat is offline, enter your name and email address and a description of the issue experienced and one of the team will contact you
 
 ![](../.gitbook/assets/23.png) _Live chat available_ ![](../.gitbook/assets/24.png) _Chat offline_
-
-* When green icon is lit a live agent is available, grey icon agent is offline
-* If offline enter your name and email address and a description of the issue experienced and one of the team will contact you.
-* **Log a support request through WordPress form**
-
-**Click on the following URL to log a support from through to the team**
-
-[https://blog.governordao.org/help-desk-form/](https://blog.governordao.org/help-desk-form/)
 
 ### Known Issues
 
 #### Issue 1: Nested Camera disabled In MetaMask Mobile
 
-Reported issue with MetaMask mobile, due to issues on nested camera access at the OS level Say-Tec software can’t be used in combination of Governor DAO PoC
+Reported issue with MetaMask mobile due to issues on nested camera access at the OS level Say-Tec software can’t be used in combination with the Governor DAO PoE enrollment process.
 
 #### Issue 2: NFT can’t be claimed on MetaMask Mobile
 
-Once enrolled, the Say-tech enrollment can be accessed via Metamask Mobile but there is an issue with the ‘claim NFT’ button, please use the same device to claim the NFT where you enrolled.
+Once enrolled, the Say-Tec enrollment can be accessed via Metamask Mobile, but there is an issue with the ‘claim NFT’ button. Please use the same device to claim the NFT that you used to enroll.
 
-#### Issue 3: Registering on Android through with Metamask via ‘wallet connect’ integration
+#### **Issue 3: Registering on Android with MetaMask via ‘WalletConnect’ integration**
 
-Technically not an issue but a guide on using android and Brave browser. As the website has ‘wallet connect’ integration using browsers for example Brave and Metamask is workable and supported.
+As the website has ‘Walletonnect’ integration using browsers like Brave and MetaMask is workable and supported.
 
-* First open Metamask, connect to ‘**Mainnet**’ network before opening browser.
-* Open Brave and navigate to the URL, connect wallet and click on ‘_**start enrollment**_’
+* First open MetaMask and connect to ‘Mainnet’ network before opening browser.
+* Open Brave and navigate to the URL, connect wallet and click on **‘start enrollment’**
 * A pop-up will appear to approve the use of your camera and mic
-* A silhouette will appear with red flashing blinker, then the camera will become active, if the camera doesn’t activate Metamask may not be open.
+* A silhouette will appear with a red flashing blinker, then the camera will become active, if the camera doesn’t activate Metamask may not be open.
 
-#### Issue 4: Unable to join Telegram ‘Human Chat’
+**Issue 4: Unable to join Telegram ‘Human Chat’**
 
-If the following message is displayed there is an issue a missing PoE token.
+If the following message is displayed return to the [PoE Enrollment Portal](https://onlyoneme.governordao.org/) to ensure successful enrollment and the [Passport Portal](https://passport.governordao.org/) to mint your PoE token.
 
 ![](../.gitbook/assets/25.png)
 
-## Screenshots detailing different states of registration.
+## Screenshots **D**etailing Different States of Registration.
 
-The following details the variations on connectivity and displays
+The following details the variations in connectivity and displays
 
-### State 1: Wallet not connected,
+### State 1: Wallet Not Connected,
 
 \-    GDAO balance: null
 
@@ -267,7 +262,7 @@ The following details the variations on connectivity and displays
 
 \-    PoE token detected
 
-\-    Authorised for PoE Telegram Group
+\-    Authorized for PoE Telegram Group
 
 \-    NFT Claim available
 
@@ -281,7 +276,7 @@ The following details the variations on connectivity and displays
 
 \-    PoE token detected
 
-\-    Authorised for PoE Telegram Group
+\-    Authorized for PoE Telegram Group
 
 \-    NFT Claim available (Not displayed unless 50 + GDAO)
 
