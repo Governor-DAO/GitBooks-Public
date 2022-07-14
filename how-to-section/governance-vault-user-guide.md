@@ -161,10 +161,10 @@ You should notice that your GDAO/xGDAO balances will change with these interacti
 
 In its current setup the PoE token is free + gas to claim. At a later date the cost of the PoE token will be priced around a bonding curve: cheap for the first signups and increasingly expensive over time (with more signups, the value of being part of the list increases as more and more projects will be looking to leverage the “global whitelist”).
 
-Purchasing a PoE token with the referral URL \[[https://passport.governordao.org](https://passport.governordao.org)]\
-By default a referral link will be displayed in the following format :
+**Purchasing a PoE token with the referral URL** \[[https://passport.governordao.org](https://passport.governordao.org)]\
 
-[**https://vault.governordao.org/?ref=0x**](https://vault.governordao.org/?ref=0x)**\<ETH\_Wallet\_Address>**
+
+By default a referral link will be displayed in the following format: [**https://vault.governordao.org/?ref=0x**](https://vault.governordao.org/?ref=0x)**\<ETH\_Wallet\_Address>**
 
 **Register for hashing**
 

@@ -75,7 +75,7 @@ As the defi space builds out, social media has become an area in need of decentr
 
 This can be solved by integrating PoE token verification into social media platforms. Additionally, as web3 and decentralized platforms are built out, GDAO’s Passport Portal can be used to verify a wallet’s connected social media profiles. These options provide platforms with the tools needed to mitigate bot activity and scams, ensuring a safer environment for their community.
 
-**Use Case 8:** Anon/On-Chain Identity/Reputation :adult::ballot\_box\_with\_check:
+**Use Case 8: Anon/On-Chain Identity/Reputation** :adult::ballot\_box\_with\_check:
 
 **Problem Explanation / Challenge**
 
@@ -85,7 +85,7 @@ As blockchain integrations build out so does its reach and scale across platform
 
 GDAO’s Proof of Existence (PoE) token allows for verification of one user to one wallet. This ensures that on-chain reputation systems are accurately maintained and unable to be gamed. For example, a user owning a Proof of Existence (PoE) token builds out their on-chain reputation within the growing GDAO ecosystem.
 
-**Use Case 9:** Gas wars :fuelpump:
+**Use Case 9: Gas wars** :fuelpump:
 
 **Problem Explanation / Challenge**
 
