@@ -26,7 +26,7 @@ Vault site: [https://vault.governordao.org/](http://vault.governordao.org/)
 
 Creating a working DAO is a challenging endeavor with numerous interactive parts. The nature of any business suggests that certain individuals must play privileged roles. This reality is sometimes at odds with the intentions behind the DAO ethos.
 
-There are several strategies we can employ to maintain privileged/permissioned roles in a DAO model. Token holders can elect/appoint privileged roles. We can create checks and balances to keep privileged counter-parties honest. And as much as possible- operations and management can be automated in code.
+There are several strategies we can employ to maintain privileged/permissioned roles in a DAO model. Token holders can elect/appoint privileged roles. We can create checks and balances to keep privileged counter-parties honest. And as much as possible, we can automate operations and management in code.
 
 The Governance Vault is a powerful, scaling, future-proof mechanism to bake Governor DAO accounting and finances into code. Modular smart contracts work together to handle incoming revenue and distribute per the rules set by token holders.
 
