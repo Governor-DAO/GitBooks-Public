@@ -16,11 +16,9 @@ Version 1.2 Date: 05 April 2022
 2. Claim your free NFT on Mainnet
 3. Join our “Humans Only” Telegram Group on Mainnet
 
-**For more detailed info, check out the** [**Governor DAO Proof of Concept Guide.**](https://governordao.org/ProofOfConcept/GovernorDAO-PoC-UserGuide.pdf)
-
 ### PoE Portal URLs
 
-1. **PoE Enrollment Portal on Mainnet** [**https://OnlyOneMe.governordao.org**](https://onlyoneme.governordao.org)****
+1. **PoE Enrollment Portal on Mainnet** [**https://onlyoneme.governordao.org**](https://onlyoneme.governordao.org)****
 2. **Mint a PoE token on Mainnet** [**https://passport.governordao.org**](https://humanchat.governordao.org)****
 
 ### Governor DAO Contract Addresses
@@ -48,7 +46,7 @@ A warning will display if your wallet is connected to the wrong network.
 
 * The 'Human Chat' Telegram chat has been migrated to Mainnet with a link appearing on the website once a PoE token has been minted on Mainnet
 
-If this is your first time the “_**Status of VIP enrollment:**_” will be ‘**Unenrolled**’ or ‘_**Unknown**_’ (if the wallet isn’t connected).
+If this is your first time, the “_**Status of VIP enrollment:**_” will be ‘**Unenrolled**’ or ‘_**Unknown**_’ (if the wallet isn’t connected).
 
 ### Start Enrollment
 
@@ -59,7 +57,7 @@ If you want to make sure your camera is lined up with your face, click **“Star
 **Important NOTE:**
 
 * If you appear frozen, i.e. your camera is not tracking your movement, there could be an issue with your webcam. Also, a common issue when using mobile phones (see note at the beginning of the section).
-* Check to ensure that lighting conditions are suitable. If there are shadows or the room has mixed light the capture may fail.
+* Check to ensure that lighting conditions are suitable. If there are shadows or the room has mixed light, the capture may fail.
 * Check to ensure that the audio is clear.
 
 Once you are ready, click ‘_**Start Enrollment**_’ to start the enrollment process.
@@ -86,15 +84,15 @@ On success, the following heading will be updated ‘**Status of VIP enrollment*
 
 ## PoE Token Assignment
 
-**NOTE: Once Say-Tec registration is complete, a PoE token can be minted from the following** [**page**](https://passport.governordao.org) **which will cost a small gas fee to complete the transaction. An automated process runs every 4 hours which collects new enrolments and authorizes the new wallet to mint a PoE token.**
+**NOTE: Once Say-Tec registration is complete, a PoE token can be minted from the following** [**page**](https://passport.governordao.org)**, which will cost a small gas fee to complete the transaction. An automated process runs every 4 hours which collects new enrolments and authorizes the new wallet to mint a PoE token.**
 
-Once the PoE token has been minted access to the 'Humans only' Telegram group can be accessed from a link that is displayed on detection of the PoE token on [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org).
+Once the PoE token has been minted, access to the 'Humans only' Telegram group can be accessed from a link that is displayed on detection of the PoE token on [https://OnlyOneMe.governordao.org](https://onlyoneme.governordao.org).
 
 ## Verifying Enrollment Later
 
-Once your enrollment has been successful you can return at any time to use the PoC tech to verify your enrollment is functioning.
+Once your enrollment has been successful, you can return at any time to the PoE Enrollment Portal to verify that your enrollment is functioning.
 
-Whenever returning the PoC page the avatar will appear but instead of an option to ‘_**Start Enrollment,**_’ a green ‘_**Start Validation**_’ button will appear instead.
+When an enrolled user returns to the PoE Enrollment Portal, a green ‘_**Start Validation**_’ button will appear instead of an option to ‘_**Start Enrollment.**_’
 
 To validate your registration only capture will be requested as well as video under the normal expected conditions.
 
@@ -219,7 +217,7 @@ Once enrolled, the Say-Tec enrollment can be accessed via Metamask Mobile, but t
 
 As the website has ‘Walletonnect’ integration using browsers like Brave and MetaMask is workable and supported.
 
-* First open MetaMask and connect to ‘Mainnet’ network before opening browser.
+* First, open MetaMask and connect to ‘Mainnet’ network before opening the browser.
 * Open Brave and navigate to the URL, connect wallet and click on **‘start enrollment’**
 * A pop-up will appear to approve the use of your camera and mic
 * A silhouette will appear with a red flashing blinker, then the camera will become active, if the camera doesn’t activate Metamask may not be open.
@@ -270,7 +268,7 @@ The following details the variations in connectivity and displays
 
 ### State 4: Say-Tec Enrolled / PoE token / No GDAO
 
-\-    GDAO Balance displayed as : 0
+\-    GDAO Balance displayed as: 0
 
 \-    VIP Status: Enrolled
 
