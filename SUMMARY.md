@@ -57,7 +57,7 @@
 * [GDAO V3 Uniswap Pool](https://app.uniswap.org/#/swap?outputCurrency=0x515d7e9d75e2b76db60f8a051cd890eba23286bc)
 * [GDAO V2 Uniswap Pool](https://app.uniswap.org/#/swap?outputCurrency=0x515d7e9d75e2b76db60f8a051cd890eba23286bc\&use=V2)
 * [Gate.io GDAO/USDT](https://www.gate.io/trade/GDAO\_USDT)
-* [Gate.IO GDAO/ETH](https://www.gate.io/trade/GDAO\_ETH)
+* [Gate.io GDAO/ETH](https://www.gate.io/trade/GDAO\_ETH)
 * [Where to Purchase GDAO](where-to-purchase/where-to-purchase-gdao.md)
 
 ## Additional Info / docs <a href="#other" id="other"></a>

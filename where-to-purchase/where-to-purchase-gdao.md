@@ -1,8 +1,8 @@
-# Where to Purchase GDAO
+# Where to purchase GDAO
 
-**Where to Purchase GDAO**
+**Where to purchase GDAO**
 
-**1Inch**
+1Inch
 
 [https://app.1inch.io/#/1/swap/ETH/GDAO](https://app.1inch.io/#/1/swap/ETH/GDAO)
 
@@ -14,7 +14,7 @@
 
 [https://app.uniswap.org/#/swap?outputCurrency=0x515d7e9d75e2b76db60f8a051cd890eba23286bc\&use=V2](https://app.uniswap.org/#/swap?outputCurrency=0x515d7e9d75e2b76db60f8a051cd890eba23286bc\&use=V2)
 
-**Gate.io - Not available to US residents**
+**Gate.io**
 
 [https://www.gate.io/trade/GDAO\_USDT](https://www.gate.io/trade/GDAO\_USDT)
 
