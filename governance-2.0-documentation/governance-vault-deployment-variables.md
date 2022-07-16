@@ -6,7 +6,7 @@ description: >-
 
 # Governance Vault Deployment Variables
 
-The Governance Vault and associated Buyback Agent is deployed to mainnet, which is the first iteration of Governor's autonomous, on-chain revenue model. This is very important in the iterative road to "DAOification".Note that several tweaks have been made to deployment variables versus community testing on Rinkeby. Tweaks made are starred and explained below.**Governance Vault**
+The Governance Vault and associated Buyback Agent is deployed to mainnet, which is the first iteration of Governor's autonomous, on-chain revenue model. This is very important in the iterative road to "DAOification". Note that several tweaks have been made to deployment variables versus community testing on Rinkeby. Tweaks made are starred and explained below. **Governance Vault**
 
 * Tax for non-POE holders: 3%
 * Decaying withdrawal fee: 10%. -1% per 24 hours
