@@ -85,7 +85,7 @@
 
 ## Smart Contracts <a href="#smartcontracts" id="smartcontracts"></a>
 
-* [Smart Contracts - Vault](smartcontracts/smart-contracts-vault.md)
+* [Smart Contracts Hub](smartcontracts/smart-contracts-vault.md)
 
 ## Archived\_Documents
 
