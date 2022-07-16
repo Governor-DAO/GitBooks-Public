@@ -66,14 +66,10 @@
 * [🙋Email Support Form](https://blog.governordao.org/help-desk-form/)
 * [Provably Human: a glimpse into the world of Sybil resistance.](https://mirror.xyz/0x8ef40360c42216137ad05E7541819d2e5b80fCF6/rOg-qXMPbFMSnnA4SexqFf45yx0kvy1RouzDV-bwmNU)
 * [Sybil Resistance Within the Metaverse & P2E Gaming](https://mirror.xyz/0xD8d311CD7a0dcc7DBe8545490e568740EFc83603/Pm5GM41tkfAxBjmCybQ\_T-88aP6R329ChRHwGDgFXYo)
-* [Governor DAO Post Mortem BEAN Governance Exploit](other/governor-dao-post-mortem-bean-governance-exploit.md)
 
 ## 👋 How to Section
 
-* [Creating LP & stake in Geyser Fountain Pool](how-to-section/creating-lp-and-stake-in-geyser-fountain-pool.md)
-* [Geyser Fountain ETH/GDAO LP Staking](how-to-section/geyser-fountain-eth-gdao-lp-staking.md)
 * [Governance Vault User Guide](how-to-section/governance-vault-user-guide.md)
-* [MDAO LGE Guide \[ Muse DAO\]](how-to-section/mdao-lge-guide-muse-dao.md)
 * [Get Some MATIC (Buy/Bridge)](how-to-section/get-some-matic-buy-bridge.md)
 * [Polygon Chain - MATIC Management](how-to-section/polygon-chain-matic-management.md)
 * [How to Integrate PoE to Snapshot](how-to-section/how-to-integrate-poe-to-snapshot.md)
@@ -90,3 +86,10 @@
 ## Smart Contracts <a href="#smartcontracts" id="smartcontracts"></a>
 
 * [Smart Contracts - Vault](smartcontracts/smart-contracts-vault.md)
+
+## Archived\_Documents
+
+* [Creating LP & stake in Geyser Fountain Pool](archived\_documents/creating-lp-and-stake-in-geyser-fountain-pool.md)
+* [Geyser Fountain ETH/GDAO LP Staking](archived\_documents/geyser-fountain-eth-gdao-lp-staking.md)
+* [MDAO LGE Guide \[ Muse DAO\]](archived\_documents/mdao-lge-guide-muse-dao.md)
+* [Governor DAO Post Mortem BEAN Governance Exploit](archived\_documents/governor-dao-post-mortem-bean-governance-exploit.md)
